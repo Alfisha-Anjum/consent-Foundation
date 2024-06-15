@@ -343,7 +343,7 @@ pre.w-code-block code {
   transform: none;
 }
 
-.w-webflow-badge {
+/* .w-webflow-badge {
   white-space: nowrap;
   cursor: pointer;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, .1), 0 1px 3px rgba(0, 0, 0, .1);
@@ -368,7 +368,7 @@ pre.w-code-block code {
   right: 12px !important;
   overflow: visible !important;
   transform: none !important;
-}
+} */
 
 .w-webflow-badge > img {
   visibility: visible !important;
@@ -380,6 +380,9 @@ pre.w-code-block code {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
   font-weight: bold;
+}
+.members{
+  margin-top: 100px;
 }
 
 h1 {
@@ -6651,7 +6654,9 @@ blockquote {
   left: auto;
   right: 26%;
 }
-
+.initiative{
+  color: #000;
+}
 .grid-testimonials {
   grid-column-gap: 30px;
   grid-row-gap: 30px;
