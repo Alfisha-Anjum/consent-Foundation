@@ -1,0 +1,1528 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6488b812517e451975b6019c_menu-btn.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6488b812517e451975b6019c_menu-btn.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6488b812517e451975b6019d_close-btn.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6488b812517e451975b6019d_close-btn.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6488b812517e451975b601c2_mobile_spacing.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6488b812517e451975b601c2_mobile_spacing.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6488b812517e451975b601c3_tablet_spacing.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6488b812517e451975b601c3_tablet_spacing.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648acc29117a2105edee4ee0_Fundraising®.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648acc29117a2105edee4ee0_Fundraising®.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648ae690cc9c908a8a4d5567_Group 1.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648ae690cc9c908a8a4d5567_Group 1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648aeca57264b592ddbbae3f_Banner 01-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648aeca57264b592ddbbae3f_Banner 01-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648aeca57264b592ddbbae3f_Banner 01-p-800.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648aeca57264b592ddbbae3f_Banner 01-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648aeca57264b592ddbbae3f_Banner 01.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648aeca57264b592ddbbae3f_Banner 01.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648af0fb7bfa1382b5ed9419_Banner 02-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648af0fb7bfa1382b5ed9419_Banner 02-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648af0fb7bfa1382b5ed9419_Banner 02-p-800.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648af0fb7bfa1382b5ed9419_Banner 02-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648af0fb7bfa1382b5ed9419_Banner 02.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648af0fb7bfa1382b5ed9419_Banner 02.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648af1791c79c932f5585194_Banner 03-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648af1791c79c932f5585194_Banner 03-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648af1791c79c932f5585194_Banner 03-p-800.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648af1791c79c932f5585194_Banner 03-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648af1791c79c932f5585194_Banner 03.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648af1791c79c932f5585194_Banner 03.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648b047e5fd4811f715e566d_combo shape.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648b047e5fd4811f715e566d_combo shape.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648b048e0f1c0b0b234e561f_combo shape.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648b048e0f1c0b0b234e561f_combo shape.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648b049e7bfa1382b506a0cb_combo shape.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648b049e7bfa1382b506a0cb_combo shape.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648b04ab668fb59fe2459f8b_medical service.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648b04ab668fb59fe2459f8b_medical service.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648b0fdaebc57bea4e40f14a_Vector 995 (Stroke).webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648b0fdaebc57bea4e40f14a_Vector 995 (Stroke).webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/648c7d2f7322092a6d233dcc_Fundraising® (1).webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\648c7d2f7322092a6d233dcc_Fundraising® (1).webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/64901591163c4990b00d7a08_Polygon 3 (1).webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\64901591163c4990b00d7a08_Polygon 3 (1).webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6490404be993a59c07088505_Rectangle 2 (1) (1).webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6490404be993a59c07088505_Rectangle 2 (1) (1).webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6490405704e166cdb7755b7a_Rectangle 410 (1).webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6490405704e166cdb7755b7a_Rectangle 410 (1).webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6491af7965330789e6030825_Banner-p-1080.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6491af7965330789e6030825_Banner-p-1080.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6491af7965330789e6030825_Banner-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6491af7965330789e6030825_Banner-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6491af7965330789e6030825_Banner-p-800.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6491af7965330789e6030825_Banner-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6491af7965330789e6030825_Banner.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6491af7965330789e6030825_Banner.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6491b60028de9998fabbbdbd_Group (1).svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6491b60028de9998fabbbdbd_Group (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492b05bb10b1ce8c8c7a7a4_Banner Donations.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492b05bb10b1ce8c8c7a7a4_Banner Donations.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492b07bc475e74ad6fd8860_Banner 03 (1)-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492b07bc475e74ad6fd8860_Banner 03 (1)-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492b07bc475e74ad6fd8860_Banner 03 (1)-p-800.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492b07bc475e74ad6fd8860_Banner 03 (1)-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492b07bc475e74ad6fd8860_Banner 03 (1).webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492b07bc475e74ad6fd8860_Banner 03 (1).webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492ed13c0cafc9b5abe0791_Banner 06-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492ed13c0cafc9b5abe0791_Banner 06-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492ed13c0cafc9b5abe0791_Banner 06-p-800.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492ed13c0cafc9b5abe0791_Banner 06-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492ed13c0cafc9b5abe0791_Banner 06.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492ed13c0cafc9b5abe0791_Banner 06.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492f25be423ced7b79627c0_Image 01-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492f25be423ced7b79627c0_Image 01-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492f25be423ced7b79627c0_Image 01-p-800.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492f25be423ced7b79627c0_Image 01-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492f25be423ced7b79627c0_Image 01.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492f25be423ced7b79627c0_Image 01.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492f5c4cf2ab5a0b9e8bccd_file-favourite.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492f5c4cf2ab5a0b9e8bccd_file-favourite.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492f61c065b945bc773d008_heart.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492f61c065b945bc773d008_heart.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492f62b659cca988d2df1ab_health care.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492f62b659cca988d2df1ab_health care.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492fcbc3de947f2602d000d_Vector 995 (Stroke) (3).webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492fcbc3de947f2602d000d_Vector 995 (Stroke) (3).webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6492fcbd0f571d5937d0bae9_Vector 995 (Stroke) (2).webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6492fcbd0f571d5937d0bae9_Vector 995 (Stroke) (2).webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/64940704c32a3c2b9fcdfd75_Banner 07-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\64940704c32a3c2b9fcdfd75_Banner 07-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/64940704c32a3c2b9fcdfd75_Banner 07-p-800.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\64940704c32a3c2b9fcdfd75_Banner 07-p-800.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/64940704c32a3c2b9fcdfd75_Banner 07.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\64940704c32a3c2b9fcdfd75_Banner 07.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649420f8379efe964315a23e_Vector (3).svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649420f8379efe964315a23e_Vector (3).svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649960625e8076ac314b0a34_Mission image 04-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649960625e8076ac314b0a34_Mission image 04-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649960625e8076ac314b0a34_Mission image 04.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649960625e8076ac314b0a34_Mission image 04.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6499607a934689bd3765a95e_Mission image 01-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6499607a934689bd3765a95e_Mission image 01-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/6499607a934689bd3765a95e_Mission image 01.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6499607a934689bd3765a95e_Mission image 01.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649960939a5cbbcf87ae73c6_Mission image 03-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649960939a5cbbcf87ae73c6_Mission image 03-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649960939a5cbbcf87ae73c6_Mission image 03.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649960939a5cbbcf87ae73c6_Mission image 03.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649960b660ef2bfe517513b4_Mission image 02-p-500.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649960b660ef2bfe517513b4_Mission image 02-p-500.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649960b660ef2bfe517513b4_Mission image 02.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649960b660ef2bfe517513b4_Mission image 02.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649973a0934689bd377f6b26_Group 57.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649973a0934689bd377f6b26_Group 57.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649976f4934689bd37841757_Vector.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649976f4934689bd37841757_Vector.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649afb4ad70c8d3b605d0adf_users 02.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649afb4ad70c8d3b605d0adf_users 02.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649afe881d5a4ff7da9e03c3_Group 1.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649afe881d5a4ff7da9e03c3_Group 1.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf1191ea0320a4fdf9a49_image 36.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf1191ea0320a4fdf9a49_image 36.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf119d6160f417e90e747_image 37.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf119d6160f417e90e747_image 37.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3a53c60195b37af93e6_image 38.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3a53c60195b37af93e6_image 38.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3a6012dd2721afb5b31_image 39.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3a6012dd2721afb5b31_image 39.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3a80081298d6246d6f4_image 40.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3a80081298d6246d6f4_image 40.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3a8c3f3cab32caaf0c4_image 41.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3a8c3f3cab32caaf0c4_image 41.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3a95b6b6eedce6a8260_image 44.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3a95b6b6eedce6a8260_image 44.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3a961f883c7e736c817_image 42.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3a961f883c7e736c817_image 42.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3bc78d90b1aba968d36_image 46.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3bc78d90b1aba968d36_image 46.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3bc90e23f49258233e2_image 43.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3bc90e23f49258233e2_image 43.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3bcbf28ab02a42e9098_image 45.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3bcbf28ab02a42e9098_image 45.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf3bd0cf4801a459bcc71_image 47.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf3bd0cf4801a459bcc71_image 47.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf8253db704aca26b01ee_image 48.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf8253db704aca26b01ee_image 48.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf82561bfa2f8d1401aff_image 49.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf82561bfa2f8d1401aff_image 49.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf825ac384913c29424a0_image 51.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf825ac384913c29424a0_image 51.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf8265edfb21a0cf4f152_image 52.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf8265edfb21a0cf4f152_image 52.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf8281ea0320a4fe90ebb_image 54.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf8281ea0320a4fe90ebb_image 54.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf828386d144f4fd4f51e_image 53.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf828386d144f4fd4f51e_image 53.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bf835790a27e89e3d7d49_image 55.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bf835790a27e89e3d7d49_image 55.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfb2d5b6b6eedce7433d9_image 60.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfb2d5b6b6eedce7433d9_image 60.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfb2e5b6b6eedce743576_image 62.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfb2e5b6b6eedce743576_image 62.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfb3cd4427b2d59ec93fd_image 56.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfb3cd4427b2d59ec93fd_image 56.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfb3d78d90b1aba9ff342_image 58.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfb3d78d90b1aba9ff342_image 58.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfb3ddefd8fbaf7695d27_image 59.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfb3ddefd8fbaf7695d27_image 59.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfb3e5edfb21a0cf93ca4_image 57.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfb3e5edfb21a0cf93ca4_image 57.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfb3e78d90b1aba9ff392_image%252061.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfb3e78d90b1aba9ff392_image%2061.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfd93df65ec0f63957c03_image 63.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfd93df65ec0f63957c03_image 63.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfd9437ed77ab0fdbe7f5_image 65.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfd9437ed77ab0fdbe7f5_image 65.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfd9478d90b1abaa3249c_image 64.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfd9478d90b1abaa3249c_image 64.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfd9490e23f4925900af8_image 66.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfd9490e23f4925900af8_image 66.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfd9761bfa2f8d146d587_image 68.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfd9761bfa2f8d146d587_image 68.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfd97a8537b7861a1f865_image 67.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfd97a8537b7861a1f865_image 67.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfd9e0081298d62532da6_image 69.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfd9e0081298d62532da6_image 69.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfff09c8c18e01cbcb95f_image 72.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfff09c8c18e01cbcb95f_image 72.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfff107bf7f16720a55c8_image 70.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfff107bf7f16720a55c8_image 70.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfff1259279b96f081992_image 74.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfff1259279b96f081992_image 74.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfff19c8c18e01cbcba1d_image 73.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfff19c8c18e01cbcba1d_image 73.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfff25006b3b8d5ccdf55_image 75.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfff25006b3b8d5ccdf55_image 75.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649bfff3976f3a3f95598ec9_image 76.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649bfff3976f3a3f95598ec9_image 76.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649c010061bfa2f8d14af631_image 71.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649c010061bfa2f8d14af631_image 71.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649c01d7b455733a252a19a1_image 78.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649c01d7b455733a252a19a1_image 78.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649c01d8defd8fbaf771c675_image 80.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649c01d8defd8fbaf771c675_image 80.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649c01d907bf7f16720d15de_image 77.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649c01d907bf7f16720d15de_image 77.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649c01d94b3a895b4e945021_image 79.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649c01d94b3a895b4e945021_image 79.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649c050921de1f16fd9e9a55_LP 01.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649c050921de1f16fd9e9a55_LP 01.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649c0b554b3a895b4ea0031e_LP 02.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649c0b554b3a895b4ea0031e_LP 02.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649c0c1b3c60195b37ce87c5_LP 03.webp
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649c0c1b3c60195b37ce87c5_LP 03.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649c16bbaa5e9804050e72c6_SG 02.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649c16bbaa5e9804050e72c6_SG 02.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649d405bf5c7aa41f5d6ce8f_Favicon 1.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649d405bf5c7aa41f5d6ce8f_Favicon 1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/649d40643f440aade31fca89_Webclip 1.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\649d40643f440aade31fca89_Webclip 1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/64c0bcfe0fcbd204b7d6b38e_Close Pop-up.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\64c0bcfe0fcbd204b7d6b38e_Close Pop-up.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/64c0bd217f03861563ad17db_wCopilot.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\64c0bd217f03861563ad17db_wCopilot.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/653658f4f181ce66f67c87d4_icon white.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\653658f4f181ce66f67c87d4_icon white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/css/fundraising-wcopilot.webflow.af26a20e5.css
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\css\fundraising-wcopilot.webflow.af26a20e5.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/6488b811517e451975b60030/js/webflow.51672e485.js
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\js\webflow.51672e485.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c36efef149622e9effd53_pexels-kwaku-griffin-14554004 (1)-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c36efef149622e9effd53_pexels-kwaku-griffin-14554004 (1)-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c36efef149622e9effd53_pexels-kwaku-griffin-14554004 (1)-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c36efef149622e9effd53_pexels-kwaku-griffin-14554004 (1)-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c36efef149622e9effd53_pexels-kwaku-griffin-14554004 (1)-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c36efef149622e9effd53_pexels-kwaku-griffin-14554004 (1)-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c36efef149622e9effd53_pexels-kwaku-griffin-14554004 (1).jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c36efef149622e9effd53_pexels-kwaku-griffin-14554004 (1).jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c5a4545c6e8a0ce908e2b_Rectangle 407-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c5a4545c6e8a0ce908e2b_Rectangle 407-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c5a4545c6e8a0ce908e2b_Rectangle 407.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c5a4545c6e8a0ce908e2b_Rectangle 407.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c5a547cc69a36bfc69d34_Rectangle 408-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c5a547cc69a36bfc69d34_Rectangle 408-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c5a547cc69a36bfc69d34_Rectangle 408.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c5a547cc69a36bfc69d34_Rectangle 408.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c5b78d2a19d734575bc11_pexels-sir-lodi-11715457-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c5b78d2a19d734575bc11_pexels-sir-lodi-11715457-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c5b78d2a19d734575bc11_pexels-sir-lodi-11715457-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c5b78d2a19d734575bc11_pexels-sir-lodi-11715457-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c5b78d2a19d734575bc11_pexels-sir-lodi-11715457-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c5b78d2a19d734575bc11_pexels-sir-lodi-11715457-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/648c5b78d2a19d734575bc11_pexels-sir-lodi-11715457.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\648c5b78d2a19d734575bc11_pexels-sir-lodi-11715457.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cb5d19ae6c854e01b76_pexels-lagos-food-bank-initiative-8042458-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cb5d19ae6c854e01b76_pexels-lagos-food-bank-initiative-8042458-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cb5d19ae6c854e01b76_pexels-lagos-food-bank-initiative-8042458-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cb5d19ae6c854e01b76_pexels-lagos-food-bank-initiative-8042458-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cb5d19ae6c854e01b76_pexels-lagos-food-bank-initiative-8042458-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cb5d19ae6c854e01b76_pexels-lagos-food-bank-initiative-8042458-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cb5d19ae6c854e01b76_pexels-lagos-food-bank-initiative-8042458.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cb5d19ae6c854e01b76_pexels-lagos-food-bank-initiative-8042458.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cc320649075628edf7b_pexels-rdne-stock-project-6646763-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cc320649075628edf7b_pexels-rdne-stock-project-6646763-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cc320649075628edf7b_pexels-rdne-stock-project-6646763-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cc320649075628edf7b_pexels-rdne-stock-project-6646763-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cc320649075628edf7b_pexels-rdne-stock-project-6646763-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cc320649075628edf7b_pexels-rdne-stock-project-6646763-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cc320649075628edf7b_pexels-rdne-stock-project-6646763.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cc320649075628edf7b_pexels-rdne-stock-project-6646763.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cd3e63df577d7d16861_pexels-rdne-stock-project-6646918-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cd3e63df577d7d16861_pexels-rdne-stock-project-6646918-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cd3e63df577d7d16861_pexels-rdne-stock-project-6646918-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cd3e63df577d7d16861_pexels-rdne-stock-project-6646918-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cd3e63df577d7d16861_pexels-rdne-stock-project-6646918-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cd3e63df577d7d16861_pexels-rdne-stock-project-6646918-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64906cd3e63df577d7d16861_pexels-rdne-stock-project-6646918.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64906cd3e63df577d7d16861_pexels-rdne-stock-project-6646918.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64917916270212395e9f057c_pexels-rdne-stock-project-6646906-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64917916270212395e9f057c_pexels-rdne-stock-project-6646906-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64917916270212395e9f057c_pexels-rdne-stock-project-6646906-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64917916270212395e9f057c_pexels-rdne-stock-project-6646906-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64917916270212395e9f057c_pexels-rdne-stock-project-6646906-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64917916270212395e9f057c_pexels-rdne-stock-project-6646906-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64917916270212395e9f057c_pexels-rdne-stock-project-6646906.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64917916270212395e9f057c_pexels-rdne-stock-project-6646906.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491792a6fba10735a509f4f_pexels-rdne-stock-project-6646909-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491792a6fba10735a509f4f_pexels-rdne-stock-project-6646909-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491792a6fba10735a509f4f_pexels-rdne-stock-project-6646909-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491792a6fba10735a509f4f_pexels-rdne-stock-project-6646909-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491792a6fba10735a509f4f_pexels-rdne-stock-project-6646909-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491792a6fba10735a509f4f_pexels-rdne-stock-project-6646909-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491792a6fba10735a509f4f_pexels-rdne-stock-project-6646909.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491792a6fba10735a509f4f_pexels-rdne-stock-project-6646909.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64917950b86ee35779263ad9_pexels-rdne-stock-project-6646868-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64917950b86ee35779263ad9_pexels-rdne-stock-project-6646868-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64917950b86ee35779263ad9_pexels-rdne-stock-project-6646868-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64917950b86ee35779263ad9_pexels-rdne-stock-project-6646868-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64917950b86ee35779263ad9_pexels-rdne-stock-project-6646868-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64917950b86ee35779263ad9_pexels-rdne-stock-project-6646868-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64917950b86ee35779263ad9_pexels-rdne-stock-project-6646868.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64917950b86ee35779263ad9_pexels-rdne-stock-project-6646868.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491796ad2bd3b2757149809_pexels-ron-lach-9034103-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491796ad2bd3b2757149809_pexels-ron-lach-9034103-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491796ad2bd3b2757149809_pexels-ron-lach-9034103-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491796ad2bd3b2757149809_pexels-ron-lach-9034103-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491796ad2bd3b2757149809_pexels-ron-lach-9034103-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491796ad2bd3b2757149809_pexels-ron-lach-9034103-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491796ad2bd3b2757149809_pexels-ron-lach-9034103.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491796ad2bd3b2757149809_pexels-ron-lach-9034103.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491797e2a0b32f53c8601a9_pexels-julia-m-cameron-6994808-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491797e2a0b32f53c8601a9_pexels-julia-m-cameron-6994808-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491797e2a0b32f53c8601a9_pexels-julia-m-cameron-6994808-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491797e2a0b32f53c8601a9_pexels-julia-m-cameron-6994808-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491797e2a0b32f53c8601a9_pexels-julia-m-cameron-6994808-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491797e2a0b32f53c8601a9_pexels-julia-m-cameron-6994808-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6491797e2a0b32f53c8601a9_pexels-julia-m-cameron-6994808.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6491797e2a0b32f53c8601a9_pexels-julia-m-cameron-6994808.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649179a4213c45a9d63d4691_pexels-rdne-stock-project-6646904-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649179a4213c45a9d63d4691_pexels-rdne-stock-project-6646904-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649179a4213c45a9d63d4691_pexels-rdne-stock-project-6646904-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649179a4213c45a9d63d4691_pexels-rdne-stock-project-6646904-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649179a4213c45a9d63d4691_pexels-rdne-stock-project-6646904-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649179a4213c45a9d63d4691_pexels-rdne-stock-project-6646904-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649179a4213c45a9d63d4691_pexels-rdne-stock-project-6646904.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649179a4213c45a9d63d4691_pexels-rdne-stock-project-6646904.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ac8cb45c012e44059750_pexels-kampus-production-7078747-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ac8cb45c012e44059750_pexels-kampus-production-7078747-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ac8cb45c012e44059750_pexels-kampus-production-7078747-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ac8cb45c012e44059750_pexels-kampus-production-7078747-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ac8cb45c012e44059750_pexels-kampus-production-7078747-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ac8cb45c012e44059750_pexels-kampus-production-7078747-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ac8cb45c012e44059750_pexels-kampus-production-7078747.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ac8cb45c012e44059750_pexels-kampus-production-7078747.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ac9b747033215205aa2c_pexels-givingtuesday-9826021-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ac9b747033215205aa2c_pexels-givingtuesday-9826021-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ac9b747033215205aa2c_pexels-givingtuesday-9826021-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ac9b747033215205aa2c_pexels-givingtuesday-9826021-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ac9b747033215205aa2c_pexels-givingtuesday-9826021-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ac9b747033215205aa2c_pexels-givingtuesday-9826021-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ac9b747033215205aa2c_pexels-givingtuesday-9826021.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ac9b747033215205aa2c_pexels-givingtuesday-9826021.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492acc3c4b7189b319c2b26_pexels-picha-6210596-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492acc3c4b7189b319c2b26_pexels-picha-6210596-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492acc3c4b7189b319c2b26_pexels-picha-6210596-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492acc3c4b7189b319c2b26_pexels-picha-6210596-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492acc3c4b7189b319c2b26_pexels-picha-6210596-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492acc3c4b7189b319c2b26_pexels-picha-6210596-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492acc3c4b7189b319c2b26_pexels-picha-6210596.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492acc3c4b7189b319c2b26_pexels-picha-6210596.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash-p-1600.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddad678ef7b5586d3132_joel-muniz-y3ZY6qFln_g-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash-p-1600.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492ddec755ae363f326af38_joel-muniz-BErJJL_KsjA-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492de461ba18a967f6a9179_pexels-hashtag-melvin-5725628-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492de461ba18a967f6a9179_pexels-hashtag-melvin-5725628-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492de461ba18a967f6a9179_pexels-hashtag-melvin-5725628-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492de461ba18a967f6a9179_pexels-hashtag-melvin-5725628-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492de461ba18a967f6a9179_pexels-hashtag-melvin-5725628-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492de461ba18a967f6a9179_pexels-hashtag-melvin-5725628-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492de461ba18a967f6a9179_pexels-hashtag-melvin-5725628.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492de461ba18a967f6a9179_pexels-hashtag-melvin-5725628.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492de9d97f0a0491107c63a_pexels-emmanuel-ikwuegbu-9628112-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492de9d97f0a0491107c63a_pexels-emmanuel-ikwuegbu-9628112-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492de9d97f0a0491107c63a_pexels-emmanuel-ikwuegbu-9628112-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492de9d97f0a0491107c63a_pexels-emmanuel-ikwuegbu-9628112-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492de9d97f0a0491107c63a_pexels-emmanuel-ikwuegbu-9628112-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492de9d97f0a0491107c63a_pexels-emmanuel-ikwuegbu-9628112-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492de9d97f0a0491107c63a_pexels-emmanuel-ikwuegbu-9628112.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492de9d97f0a0491107c63a_pexels-emmanuel-ikwuegbu-9628112.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492dee82a448114fba99c1b_pexels-anna-shvets-5029859-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492dee82a448114fba99c1b_pexels-anna-shvets-5029859-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492dee82a448114fba99c1b_pexels-anna-shvets-5029859-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492dee82a448114fba99c1b_pexels-anna-shvets-5029859-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492dee82a448114fba99c1b_pexels-anna-shvets-5029859-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492dee82a448114fba99c1b_pexels-anna-shvets-5029859-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492dee82a448114fba99c1b_pexels-anna-shvets-5029859.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492dee82a448114fba99c1b_pexels-anna-shvets-5029859.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash-p-1600.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492dfb47e5773ac9662bd66_annie-spratt-cVEOh_JJmEE-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492eb42f5a303b40e9f6262_pexels-denis-ngai-4483669-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492eb42f5a303b40e9f6262_pexels-denis-ngai-4483669-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492eb42f5a303b40e9f6262_pexels-denis-ngai-4483669-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492eb42f5a303b40e9f6262_pexels-denis-ngai-4483669-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492eb42f5a303b40e9f6262_pexels-denis-ngai-4483669-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492eb42f5a303b40e9f6262_pexels-denis-ngai-4483669-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6492eb42f5a303b40e9f6262_pexels-denis-ngai-4483669.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6492eb42f5a303b40e9f6262_pexels-denis-ngai-4483669.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash-p-1600.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64943766977d1da94ea9e9fd_audi-nissen-u1CAj5HJzO4-unsplash.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6494427044a28080aae2e15c_pexels-keegan-checks-2802809-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6494427044a28080aae2e15c_pexels-keegan-checks-2802809-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6494427044a28080aae2e15c_pexels-keegan-checks-2802809-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6494427044a28080aae2e15c_pexels-keegan-checks-2802809-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6494427044a28080aae2e15c_pexels-keegan-checks-2802809-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6494427044a28080aae2e15c_pexels-keegan-checks-2802809-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6494427044a28080aae2e15c_pexels-keegan-checks-2802809.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6494427044a28080aae2e15c_pexels-keegan-checks-2802809.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649442a7d7842ad7ce69825c_pexels-peace-alberto-iteriteka-1102570-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649442a7d7842ad7ce69825c_pexels-peace-alberto-iteriteka-1102570-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649442a7d7842ad7ce69825c_pexels-peace-alberto-iteriteka-1102570-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649442a7d7842ad7ce69825c_pexels-peace-alberto-iteriteka-1102570-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649442a7d7842ad7ce69825c_pexels-peace-alberto-iteriteka-1102570-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649442a7d7842ad7ce69825c_pexels-peace-alberto-iteriteka-1102570-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649442a7d7842ad7ce69825c_pexels-peace-alberto-iteriteka-1102570.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649442a7d7842ad7ce69825c_pexels-peace-alberto-iteriteka-1102570.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6494430a977d1da94eba847c_pexels-mikhail-nilov-9301257-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6494430a977d1da94eba847c_pexels-mikhail-nilov-9301257-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6494430a977d1da94eba847c_pexels-mikhail-nilov-9301257-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6494430a977d1da94eba847c_pexels-mikhail-nilov-9301257-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6494430a977d1da94eba847c_pexels-mikhail-nilov-9301257-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6494430a977d1da94eba847c_pexels-mikhail-nilov-9301257-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6494430a977d1da94eba847c_pexels-mikhail-nilov-9301257.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6494430a977d1da94eba847c_pexels-mikhail-nilov-9301257.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944384e3a0c0a502adb25f_pexels-lagos-food-bank-initiative-9090746-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944384e3a0c0a502adb25f_pexels-lagos-food-bank-initiative-9090746-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944384e3a0c0a502adb25f_pexels-lagos-food-bank-initiative-9090746-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944384e3a0c0a502adb25f_pexels-lagos-food-bank-initiative-9090746-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944384e3a0c0a502adb25f_pexels-lagos-food-bank-initiative-9090746-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944384e3a0c0a502adb25f_pexels-lagos-food-bank-initiative-9090746-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944384e3a0c0a502adb25f_pexels-lagos-food-bank-initiative-9090746.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944384e3a0c0a502adb25f_pexels-lagos-food-bank-initiative-9090746.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944434238e44550f993ee8_pexels-lagos-food-bank-initiative-9090899-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944434238e44550f993ee8_pexels-lagos-food-bank-initiative-9090899-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944434238e44550f993ee8_pexels-lagos-food-bank-initiative-9090899-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944434238e44550f993ee8_pexels-lagos-food-bank-initiative-9090899-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944434238e44550f993ee8_pexels-lagos-food-bank-initiative-9090899-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944434238e44550f993ee8_pexels-lagos-food-bank-initiative-9090899-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944434238e44550f993ee8_pexels-lagos-food-bank-initiative-9090899.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944434238e44550f993ee8_pexels-lagos-food-bank-initiative-9090899.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f04b97f8a96b21061_pexels-safari-consoler-11139373-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f04b97f8a96b21061_pexels-safari-consoler-11139373-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f04b97f8a96b21061_pexels-safari-consoler-11139373-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f04b97f8a96b21061_pexels-safari-consoler-11139373-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f04b97f8a96b21061_pexels-safari-consoler-11139373-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f04b97f8a96b21061_pexels-safari-consoler-11139373-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f04b97f8a96b21061_pexels-safari-consoler-11139373.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f04b97f8a96b21061_pexels-safari-consoler-11139373.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f6d8ae638eeee01aa_pexels-david-iloba-15148682-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f6d8ae638eeee01aa_pexels-david-iloba-15148682-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f6d8ae638eeee01aa_pexels-david-iloba-15148682-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f6d8ae638eeee01aa_pexels-david-iloba-15148682-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f6d8ae638eeee01aa_pexels-david-iloba-15148682-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f6d8ae638eeee01aa_pexels-david-iloba-15148682-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f6d8ae638eeee01aa_pexels-david-iloba-15148682.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f6d8ae638eeee01aa_pexels-david-iloba-15148682.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f800b7376936de81f_pexels-emmanuel-ikwuegbu-9628111-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f800b7376936de81f_pexels-emmanuel-ikwuegbu-9628111-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f800b7376936de81f_pexels-emmanuel-ikwuegbu-9628111-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f800b7376936de81f_pexels-emmanuel-ikwuegbu-9628111-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f800b7376936de81f_pexels-emmanuel-ikwuegbu-9628111-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f800b7376936de81f_pexels-emmanuel-ikwuegbu-9628111-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f800b7376936de81f_pexels-emmanuel-ikwuegbu-9628111.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f800b7376936de81f_pexels-emmanuel-ikwuegbu-9628111.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f96dc8d4176edcf94_pexels-omotayo-tajudeen-3213283-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f96dc8d4176edcf94_pexels-omotayo-tajudeen-3213283-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f96dc8d4176edcf94_pexels-omotayo-tajudeen-3213283-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f96dc8d4176edcf94_pexels-omotayo-tajudeen-3213283-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f96dc8d4176edcf94_pexels-omotayo-tajudeen-3213283-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f96dc8d4176edcf94_pexels-omotayo-tajudeen-3213283-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64944f2f96dc8d4176edcf94_pexels-omotayo-tajudeen-3213283.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64944f2f96dc8d4176edcf94_pexels-omotayo-tajudeen-3213283.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64997fa5366870cf35e1eb4f_pexels-cottonbro-studio-6590920-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64997fa5366870cf35e1eb4f_pexels-cottonbro-studio-6590920-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64997fa5366870cf35e1eb4f_pexels-cottonbro-studio-6590920-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64997fa5366870cf35e1eb4f_pexels-cottonbro-studio-6590920-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64997fa5366870cf35e1eb4f_pexels-cottonbro-studio-6590920-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64997fa5366870cf35e1eb4f_pexels-cottonbro-studio-6590920-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64997fa5366870cf35e1eb4f_pexels-cottonbro-studio-6590920.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64997fa5366870cf35e1eb4f_pexels-cottonbro-studio-6590920.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499805c529708c66108cfbc_pexels-rdne-stock-project-6646770-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499805c529708c66108cfbc_pexels-rdne-stock-project-6646770-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499805c529708c66108cfbc_pexels-rdne-stock-project-6646770-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499805c529708c66108cfbc_pexels-rdne-stock-project-6646770-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499805c529708c66108cfbc_pexels-rdne-stock-project-6646770-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499805c529708c66108cfbc_pexels-rdne-stock-project-6646770-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499805c529708c66108cfbc_pexels-rdne-stock-project-6646770.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499805c529708c66108cfbc_pexels-rdne-stock-project-6646770.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499807408c30ea4bc4fa7a5_pexels-cottonbro-studio-6565761-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499807408c30ea4bc4fa7a5_pexels-cottonbro-studio-6565761-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499807408c30ea4bc4fa7a5_pexels-cottonbro-studio-6565761-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499807408c30ea4bc4fa7a5_pexels-cottonbro-studio-6565761-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499807408c30ea4bc4fa7a5_pexels-cottonbro-studio-6565761-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499807408c30ea4bc4fa7a5_pexels-cottonbro-studio-6565761-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499807408c30ea4bc4fa7a5_pexels-cottonbro-studio-6565761.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499807408c30ea4bc4fa7a5_pexels-cottonbro-studio-6565761.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64998082979306f7e73c034b_pexels-sanaa-ali-13995877-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64998082979306f7e73c034b_pexels-sanaa-ali-13995877-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64998082979306f7e73c034b_pexels-sanaa-ali-13995877-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64998082979306f7e73c034b_pexels-sanaa-ali-13995877-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64998082979306f7e73c034b_pexels-sanaa-ali-13995877-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64998082979306f7e73c034b_pexels-sanaa-ali-13995877-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/64998082979306f7e73c034b_pexels-sanaa-ali-13995877.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\64998082979306f7e73c034b_pexels-sanaa-ali-13995877.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499809113c4ae0865152eb7_pexels-rdne-stock-project-6646900-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499809113c4ae0865152eb7_pexels-rdne-stock-project-6646900-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499809113c4ae0865152eb7_pexels-rdne-stock-project-6646900-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499809113c4ae0865152eb7_pexels-rdne-stock-project-6646900-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499809113c4ae0865152eb7_pexels-rdne-stock-project-6646900-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499809113c4ae0865152eb7_pexels-rdne-stock-project-6646900-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/6499809113c4ae0865152eb7_pexels-rdne-stock-project-6646900.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\6499809113c4ae0865152eb7_pexels-rdne-stock-project-6646900.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649980a4316050d1d9232ba5_pexels-julia-m-cameron-6995213-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649980a4316050d1d9232ba5_pexels-julia-m-cameron-6995213-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649980a4316050d1d9232ba5_pexels-julia-m-cameron-6995213-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649980a4316050d1d9232ba5_pexels-julia-m-cameron-6995213-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649980a4316050d1d9232ba5_pexels-julia-m-cameron-6995213-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649980a4316050d1d9232ba5_pexels-julia-m-cameron-6995213-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649980a4316050d1d9232ba5_pexels-julia-m-cameron-6995213.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649980a4316050d1d9232ba5_pexels-julia-m-cameron-6995213.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aad274cc2fff1d1c182b7_pexels-liza-summer-6348129-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aad274cc2fff1d1c182b7_pexels-liza-summer-6348129-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aad274cc2fff1d1c182b7_pexels-liza-summer-6348129-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aad274cc2fff1d1c182b7_pexels-liza-summer-6348129-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aad274cc2fff1d1c182b7_pexels-liza-summer-6348129-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aad274cc2fff1d1c182b7_pexels-liza-summer-6348129-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aad274cc2fff1d1c182b7_pexels-liza-summer-6348129.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aad274cc2fff1d1c182b7_pexels-liza-summer-6348129.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aadb24a4d4fc3fc54d3b9_pexels-christy-ivey-8132887-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aadb24a4d4fc3fc54d3b9_pexels-christy-ivey-8132887-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aadb24a4d4fc3fc54d3b9_pexels-christy-ivey-8132887-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aadb24a4d4fc3fc54d3b9_pexels-christy-ivey-8132887-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aadb24a4d4fc3fc54d3b9_pexels-christy-ivey-8132887-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aadb24a4d4fc3fc54d3b9_pexels-christy-ivey-8132887-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aadb24a4d4fc3fc54d3b9_pexels-christy-ivey-8132887.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aadb24a4d4fc3fc54d3b9_pexels-christy-ivey-8132887.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aae3f9027ec9d82f94e75_pexels-nati-9787521-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aae3f9027ec9d82f94e75_pexels-nati-9787521-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aae3f9027ec9d82f94e75_pexels-nati-9787521-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aae3f9027ec9d82f94e75_pexels-nati-9787521-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aae3f9027ec9d82f94e75_pexels-nati-9787521-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aae3f9027ec9d82f94e75_pexels-nati-9787521-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649aae3f9027ec9d82f94e75_pexels-nati-9787521.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649aae3f9027ec9d82f94e75_pexels-nati-9787521.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab104c852897548c3a9aa_pexels-ready-made-3847709-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab104c852897548c3a9aa_pexels-ready-made-3847709-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab104c852897548c3a9aa_pexels-ready-made-3847709-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab104c852897548c3a9aa_pexels-ready-made-3847709-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab104c852897548c3a9aa_pexels-ready-made-3847709-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab104c852897548c3a9aa_pexels-ready-made-3847709-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab104c852897548c3a9aa_pexels-ready-made-3847709.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab104c852897548c3a9aa_pexels-ready-made-3847709.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab1a339cc98fd28e5e32d_pexels-liza-summer-6347742-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab1a339cc98fd28e5e32d_pexels-liza-summer-6347742-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab1a339cc98fd28e5e32d_pexels-liza-summer-6347742-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab1a339cc98fd28e5e32d_pexels-liza-summer-6347742-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab1a339cc98fd28e5e32d_pexels-liza-summer-6347742-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab1a339cc98fd28e5e32d_pexels-liza-summer-6347742-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab1a339cc98fd28e5e32d_pexels-liza-summer-6347742.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab1a339cc98fd28e5e32d_pexels-liza-summer-6347742.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab23f5d0dec0c8f574526_pexels-rdne-stock-project-6647023-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab23f5d0dec0c8f574526_pexels-rdne-stock-project-6647023-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab23f5d0dec0c8f574526_pexels-rdne-stock-project-6647023-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab23f5d0dec0c8f574526_pexels-rdne-stock-project-6647023-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab23f5d0dec0c8f574526_pexels-rdne-stock-project-6647023-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab23f5d0dec0c8f574526_pexels-rdne-stock-project-6647023-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ab23f5d0dec0c8f574526_pexels-rdne-stock-project-6647023.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ab23f5d0dec0c8f574526_pexels-rdne-stock-project-6647023.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649abe50c2e8e27bc3b46bd5_pexels-rdne-stock-project-6646765-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649abe50c2e8e27bc3b46bd5_pexels-rdne-stock-project-6646765-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649abe50c2e8e27bc3b46bd5_pexels-rdne-stock-project-6646765-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649abe50c2e8e27bc3b46bd5_pexels-rdne-stock-project-6646765-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649abe50c2e8e27bc3b46bd5_pexels-rdne-stock-project-6646765-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649abe50c2e8e27bc3b46bd5_pexels-rdne-stock-project-6646765-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649abe50c2e8e27bc3b46bd5_pexels-rdne-stock-project-6646765.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649abe50c2e8e27bc3b46bd5_pexels-rdne-stock-project-6646765.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649abe51f36b063c6f533263_pexels-rdne-stock-project-6647013-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649abe51f36b063c6f533263_pexels-rdne-stock-project-6647013-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649abe51f36b063c6f533263_pexels-rdne-stock-project-6647013-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649abe51f36b063c6f533263_pexels-rdne-stock-project-6647013-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649abe51f36b063c6f533263_pexels-rdne-stock-project-6647013-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649abe51f36b063c6f533263_pexels-rdne-stock-project-6647013-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649abe51f36b063c6f533263_pexels-rdne-stock-project-6647013.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649abe51f36b063c6f533263_pexels-rdne-stock-project-6647013.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ac41495ff8f60ae77d842_pexels-liza-summer-6347750-p-1080.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ac41495ff8f60ae77d842_pexels-liza-summer-6347750-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ac41495ff8f60ae77d842_pexels-liza-summer-6347750-p-500.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ac41495ff8f60ae77d842_pexels-liza-summer-6347750-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ac41495ff8f60ae77d842_pexels-liza-summer-6347750-p-800.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ac41495ff8f60ae77d842_pexels-liza-summer-6347750-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/6488b812517e451975b6009a/649ac41495ff8f60ae77d842_pexels-liza-summer-6347750.jpg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b812517e451975b6009a\649ac41495ff8f60ae77d842_pexels-liza-summer-6347750.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/6488b811517e451975b60030/6488b812517e451975b600dd_fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6488b812517e451975b600dd_fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assets.website-files.com/6488b811517e451975b60030/6488b812517e451975b600df_fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6488b812517e451975b600df_fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assets.website-files.com/6488b811517e451975b60030/6488b812517e451975b600ef_fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\6488b811517e451975b60030\6488b812517e451975b600ef_fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6488b811517e451975b60030
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://fundraising-wcopilot.webflow.io/
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/about-us
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\about-us.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/become-a-volunteer
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\become-a-volunteer.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/category/merchandise-accessories
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\category\merchandise-accessories.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/category/new
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\category\new.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/category/sale
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\category\sale.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/category/workshops-events
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\category\workshops-events.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/checkout
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\checkout.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/coming-soon
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\coming-soon.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/contact-us
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\contact-us.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations-categories/education
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations-categories\education.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations-categories/medicine
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations-categories\medicine.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations-categories/water-delivery
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations-categories\water-delivery.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations/animal-welfare-programs
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations\animal-welfare-programs.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations/clean-water-in-africa
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations\clean-water-in-africa.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations/education-services
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations\education-services.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations/health-in-other-countries
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations\health-in-other-countries.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations/we-build-and-create
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations\we-build-and-create.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/donations/womens-empowerment-initiatives
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\donations\womens-empowerment-initiatives.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/event/benefit-concert
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\event\benefit-concert.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/event/charity-gala
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\event\charity-gala.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/event/charity-sports-tournament
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\event\charity-sports-tournament.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/event/creative-workshops
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\event\creative-workshops.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/event/fun-run-walk
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\event\fun-run-walk.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/event/virtual-fundraising-auction
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\event\virtual-fundraising-auction.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/events
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\events.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/faq
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\faq.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/home-2
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\home-2.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/home-3
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\home-3.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news-categories/creative-ideas
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news-categories\creative-ideas.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news-categories/donor-engagement
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news-categories\donor-engagement.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news-categories/fundraising-strategies
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news-categories\fundraising-strategies.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news/back-to-the-future-quality-education-through-respect
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news\back-to-the-future-quality-education-through-respect.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news/effective-strategies-for-successful-fundraising-campaigns
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news\effective-strategies-for-successful-fundraising-campaigns.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news/fundraising-101-essential-tips-for-getting-started
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news\fundraising-101-essential-tips-for-getting-started.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news/save-the-childrens-role-in-fight-against-malnutrition-hailed
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news\save-the-childrens-role-in-fight-against-malnutrition-hailed.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news/the-power-of-giving-how-fundraising-transforms-lives
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news\the-power-of-giving-how-fundraising-transforms-lives.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/news/the-power-of-storytelling-in-fundraising
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\news\the-power-of-storytelling-in-fundraising.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/our-mission
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\our-mission.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/our-volunteers
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\our-volunteers.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/our-volunteers/daniel-ramirez
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\our-volunteers\daniel-ramirez.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/our-volunteers/david-martinez
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\our-volunteers\david-martinez.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/our-volunteers/erik-johnson
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\our-volunteers\erik-johnson.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/our-volunteers/james-anderson
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\our-volunteers\james-anderson.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/our-volunteers/olivia-lee
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\our-volunteers\olivia-lee.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/our-volunteers/sarah-thompson
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\our-volunteers\sarah-thompson.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/portfolio
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\portfolio.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/product/eco-friendly-tote-bags
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\product\eco-friendly-tote-bags.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/product/inspirational-wall-art
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\product\inspirational-wall-art.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/product/personalized-recipe-book
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\product\personalized-recipe-book.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/product/t-shirt-volunteer
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\product\t-shirt-volunteer.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/product/virtual-workshops
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\product\virtual-workshops.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/product/volunteer-badge
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\product\volunteer-badge.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/projects-categories/campaign-success-stories
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\projects-categories\campaign-success-stories.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/projects-categories/collaborative-partnerships
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\projects-categories\collaborative-partnerships.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/projects-categories/impactful-initiatives
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\projects-categories\impactful-initiatives.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/projects/beyond-boundaries-inclusive-and-accessible-communities
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\projects\beyond-boundaries-inclusive-and-accessible-communities.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/projects/community-cares-strengthening-neighborhoods
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\projects\community-cares-strengthening-neighborhoods.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/projects/empowered-investing-in-education-for-all
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\projects\empowered-investing-in-education-for-all.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/projects/green-initiatives-protecting-the-planet-together
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\projects\green-initiatives-protecting-the-planet-together.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/projects/healing-hearts-supporting-medical-research-and-care
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\projects\healing-hearts-supporting-medical-research-and-care.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/projects/hope-for-tomorrow-building-a-better-future
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\projects\hope-for-tomorrow-building-a-better-future.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/shop
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\shop.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/templates/licensing
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\templates\licensing.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/templates/style-guide
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\templates\style-guide.html
+Content Type: text/html
+
+Uri: https://fundraising-wcopilot.webflow.io/testimonials
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\testimonials.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-25F02DKRYM
+File Name: C:\Downloaded Web Sites\fundraising-wcopilot.webflow.io\gtag\js
+Content Type: application/javascript
+
