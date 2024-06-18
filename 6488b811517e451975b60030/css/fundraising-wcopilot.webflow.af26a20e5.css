@@ -382,7 +382,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 .members{
-  margin-top: 100px;
+  margin-top: 10
+  0px;
 }
 
 h1 {
@@ -3837,6 +3838,9 @@ blockquote {
   width: 230px;
   padding: 15px 20px;
 }
+.initiative-list{
+  width: 400px;
+}
 
 .nav-dropdown-list.w--open {
   padding-top: 20px;
@@ -6143,8 +6147,8 @@ blockquote {
 }
 
 .image-fill {
-  width: 100%;
-  height: 100%;
+  width: 200px;
+  height: 100px;
 }
 
 .button-header {
@@ -6656,6 +6660,7 @@ blockquote {
 }
 .initiative{
   color: #000;
+
 }
 .grid-testimonials {
   grid-column-gap: 30px;
