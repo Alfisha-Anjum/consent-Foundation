@@ -6855,6 +6855,9 @@ blockquote {
   display: inline-block;
 }
 
+.empower {
+  font-size: 70px;
+}
 .small-text.mt-0 {
   margin-top: 0;
 }
