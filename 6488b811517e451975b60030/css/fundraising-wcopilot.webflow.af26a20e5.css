@@ -6147,12 +6147,21 @@ blockquote {
 }
 
 .image-fill {
-  width: 200px;
-  height: 100px;
+  width: 180px;
+  height: 70px;
 }
 
 .button-header {
   flex: none;
+}
+.ledger{
+  height: 500px;
+  width: full;
+  text-align: center;
+display: flex;
+justify-content:center;
+align-items:center;
+
 }
 
 .heart-span {
@@ -7645,7 +7654,7 @@ blockquote {
   font-weight: 500;
 }
 
-.hire-popup {
+/* .hire-popup {
   z-index: 1000;
   background-color: #1c276d;
   border-radius: 4px;
@@ -7656,7 +7665,7 @@ blockquote {
   bottom: 5px;
   left: 5px;
   right: auto;
-}
+} */
 
 .hire-popup-wrap {
   grid-row-gap: 10px;
