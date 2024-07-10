@@ -5852,7 +5852,7 @@ blockquote {
 
 .nav-dropdown-link-line {
   background-color: var(--primary);
-  width: 16px;
+  width: 10.5px;
   height: 2px;
   margin-right: 15px;
   display: inline-block;
@@ -6342,8 +6342,8 @@ blockquote {
   color: var(--white);
   justify-content: center;
   width: 100%;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding: 8px;
+
   display: flex;
 }
 
