@@ -24,6 +24,26 @@ summary {
   display: block;
 }
 
+.empower {
+  height: 600px;
+  display: flex;
+}
+.empower-img {
+  padding-left: 50px;
+  height: auto;
+}
+.img-div {
+  /* background-color: #0082f3; */
+  width: 50%;
+  height: full;
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+}
+
+.empower-head {
+  /* padding-bottom: 80px; */
+}
 audio,
 canvas,
 progress,
@@ -3581,6 +3601,10 @@ blockquote {
   padding-bottom: 80px;
   position: relative;
 }
+.section-1 {
+  padding-top: 80px;
+  position: relative;
+}
 
 .section.licensing-fonts {
   padding-top: 0;
@@ -3645,6 +3669,10 @@ blockquote {
 }
 
 .section.yellow-bgr {
+  background-color: var(--sandy-brown);
+  overflow: hidden;
+}
+.section-1.yellow-bgr {
   background-color: var(--sandy-brown);
   overflow: hidden;
 }
@@ -4668,6 +4696,9 @@ blockquote {
   grid-column-gap: 50px;
   width: 100%;
   display: flex;
+}
+.h2-1 {
+  margin-bottom: 50px;
 }
 
 .workflow-video {
@@ -5899,6 +5930,11 @@ blockquote {
   margin-top: 30px;
   margin-bottom: 50px;
 }
+.boldy {
+  max-width: 620px;
+  margin-bottom: 50px;
+  line-height: 35px;
+}
 
 .bold-text.white {
   color: var(--white);
@@ -6593,6 +6629,13 @@ blockquote {
   width: 100%;
   display: flex;
 }
+.title-2 {
+  flex-direction: column;
+  margin: auto;
+
+  width: 72%;
+  display: flex;
+}
 
 .title-wrap.horizontal {
   flex-direction: row;
@@ -6601,6 +6644,17 @@ blockquote {
 }
 
 .cart-wrap {
+  grid-column-gap: 40px;
+  grid-row-gap: 40px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr;
+  grid-auto-columns: 1fr;
+  width: 100%;
+  margin-top: 40px;
+  display: grid;
+}
+
+.cart-1 {
   grid-column-gap: 40px;
   grid-row-gap: 40px;
   grid-template-rows: auto;
@@ -6867,9 +6921,6 @@ blockquote {
   display: inline-block;
 }
 
-.empower {
-  font-size: 70px;
-}
 .small-text.mt-0 {
   margin-top: 0;
 }
@@ -7197,7 +7248,7 @@ blockquote {
 
 .section-with-spacing.banner-mission {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../64940704c32a3c2b9fcdfd75_Banner 07.webp");
+    url("/my-images/consent-foundation-mission-banner (1).png");
   background-position: 0 0, 50% 0;
   background-size: auto, cover;
 }
@@ -7755,6 +7806,18 @@ blockquote {
   width: 100%;
   min-height: 555px;
   display: flex;
+}
+
+.home {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  min-height: 555px;
+  display: flex;
+}
+.h1-1 {
+  font-size: 30px;
 }
 
 .block-white {
