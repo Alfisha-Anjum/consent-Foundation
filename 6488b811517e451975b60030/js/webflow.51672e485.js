@@ -12000,6 +12000,7 @@
     queryDocument: () => queryDocument,
     setStyle: () => setStyle,
   });
+
   function setStyle(element, prop, value) {
     element.style[prop] = value;
   }
@@ -12140,6 +12141,15 @@
           };
     },
   });
+
+  function changeContent(title, imageUrl, content) {
+    console.log("function call");
+    document.getElementById("main-title").innerText = title;
+    document.getElementById("main-content").innerText = content;
+    document.getElementById(
+      "healthcare"
+    ).style.backgroundImage = `url(${imageUrl})`;
+  }
 
   // node_modules/lodash/_baseCreate.js
   var require_baseCreate = __commonJS({
