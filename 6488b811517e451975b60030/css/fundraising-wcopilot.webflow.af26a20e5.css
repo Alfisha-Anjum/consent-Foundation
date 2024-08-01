@@ -617,6 +617,9 @@ h2 {
   line-height: 36px;
 }
 
+.h2-title {
+  text-align: start;
+}
 h3 {
   margin-top: 20px;
   font-size: 24px;
