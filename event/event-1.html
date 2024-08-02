@@ -108,7 +108,7 @@
                   <a href="../about-us.html" class="nav-dropdown-link w-dropdown-link"><span
                       class="nav-dropdown-link-line"> </span>About Us</a><a href="../our-mission.html"
                     class="nav-dropdown-link w-dropdown-link"><span class="nav-dropdown-link-line"> </span>
-                    Mission</a><a href="../our-volunteers.html" class="nav-dropdown-link w-dropdown-link"><span
+                    Mission</a><a href="../members.html" class="nav-dropdown-link w-dropdown-link"><span
                       class="nav-dropdown-link-line"> </span>
                     Members</a><a href="../testimonials.html" class="nav-dropdown-link w-dropdown-link"><span
                       class="nav-dropdown-link-line"> </span>Testimonials</a><a href="../faq.html"
@@ -622,12 +622,17 @@
     <div class="base-container-stream w-container">
       <div data-w-id="44d387a7-c437-760f-d59e-9693cf855a98" style="opacity: 0" class="events-info-wrapper">
         <div class="events-small-wrapper">
-          <p id="event-location">Location: <a href="#" target="_blank" id="event-location-link">Location Link</a></p>
+          <h5 class="no-top-bottom-margin">Location:</h5>
+          <div class="data-wrap display">
+            <p id="event-time"><span id="event-slocation-link"></span>
+              <span id="event-location-link"></span></p>           
+          </div>
         </div>
         <div class="events-small-wrapper">
           <h5 class="no-top-bottom-margin">Data/Time</h5>
           <div class="data-wrap display">
-            <p id="event-time"><span id="event-start-time"></span><Br>
+            <p id="event-time"><span id="event-start-time"></span>-
+              
               <span id="event-end-time"></span></p>           
           </div>
         </div>
@@ -742,7 +747,7 @@
                       <div class="grey-text margin">-</div>
                       <div class="grey-text margin">
                         February 2, 2023 3:00 AM
-                      </div>
+                      </div >
                     </div>
                   </div>
                 </div>
@@ -761,8 +766,8 @@
     
   </div>
 
-  <div id="upcoming-events" class="base-container w-container">
-    <h2>Check Out Our   Upcoming Events</h2>
+  <div id="upcoming-events" class="base-container-stream w-container">
+    <h2 class="head-2">Check Our Upcoming Events</h2>
     <div id="get-event"></div>
   </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
@@ -781,9 +786,7 @@ function getId() {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-  const id = getId(); // Get the ID from localStorage
-  // console.log(id, "hello id");
-
+  const id = getId(); 
   if (id) {
     const eventId = id;
     const eventDetailsUrl = `https://consent-website-backend.onrender.com/events/get-event-details?event_id=${eventId}`;
@@ -796,17 +799,18 @@ document.addEventListener('DOMContentLoaded', function () {
           const event = data.event_detail;
           document.getElementById('event-title').innerText = event.event_title;
           document.getElementById('event-title2').innerText = event.event_title;
-          const locationElement = document.getElementById('event-location-link');
+          const locationElement = document.getElementById('event-location-link');   
           locationElement.innerText = event.event_location;
-          locationElement.href = `https://www.google.com/maps/search/${encodeURIComponent(event.event_location)}`;
+          // locationElement.href = `https://www.google.com/maps/search/${encodeURIComponent(event.event_location)}`;
           document.getElementById('event-start-time').innerText = new Date(event.start_time).toLocaleString();
           document.getElementById('event-end-time').innerText = new Date(event.end_time).toLocaleString();
           document.getElementById('event-description').innerText = event.event_description;
-        //  document.getElementById('event-image').style.backgroundImage = `url(${event.event_image})`;
          document.getElementById('event-banner').style.backgroundImage = `url(${event.event_banner})`;
+
          const linkElement = document.getElementById('event-link-link');
-          linkElement.innerText = event.event_call_to_action_link;
-          linkElement.href = `https://www.google.com/maps/search/${encodeURIComponent(event.event_call_to_action_link)}`;
+          // linkElement.innerText = "" Now"
+          linkElement.href = (event.event_call_to_action_link);
+          
         }
       })
       .catch(error => console.error('Error fetching event details:', error));
@@ -815,7 +819,6 @@ document.addEventListener('DOMContentLoaded', function () {
       .then(response => response.json())
       .then(data => {
         const allEvents = data["All Events"];
-        // Filter out the selected event from all events
         const filteredEvents = allEvents.filter(event => event._id !== eventId);
         displayEvents(filteredEvents);
       })
@@ -836,7 +839,7 @@ document.addEventListener('DOMContentLoaded', function () {
       console.error('Container element not found');
       return;
     }
-    container.innerHTML = ''; // Clear existing content
+    container.innerHTML = ''; 
 
     events.forEach(event => {
       console.log(event, "events");
@@ -894,10 +897,10 @@ document.addEventListener('DOMContentLoaded', function () {
       // eventDescription.classList.add('paragraph-events');
       // eventDescription.textContent = event.event_description;
 
-      const eventViewMore = document.createElement('button');
-      eventViewMore.onclick = () => setId(event._id);
-      eventViewMore.classList.add('button-small', 'green', 'w-button');
-      eventViewMore.textContent = 'View More';
+      // const eventViewMore = document.createElement('button');
+      // eventViewMore.onclick = () => setId(event._id);
+      // eventViewMore.classList.add('button-small', 'green', 'w-button');
+      // eventViewMore.textContent = 'View More';
 
 
       eventElement.appendChild(eventImageLink);
@@ -905,7 +908,7 @@ document.addEventListener('DOMContentLoaded', function () {
       eventElement.appendChild(eventDateBlock);
       eventElement.appendChild(eventTime);
       // eventElement.appendChild(eventDescription);
-      eventElement.appendChild(eventViewMore);
+      // eventElement.appendChild(eventViewMore);
 
       container.appendChild(eventElement);
       eventElement.classList.add('visible');

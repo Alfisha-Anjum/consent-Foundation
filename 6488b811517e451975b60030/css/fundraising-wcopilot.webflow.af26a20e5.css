@@ -31,11 +31,55 @@ summary {
 .container {
   position: relative;
   width: 100%;
-  max-width: 600px; /* Adjust the max-width as needed */
+  max-width: 600px;
   margin: 0 auto;
   overflow: hidden;
 }
 
+.checkbox-group {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.dpia {
+  text-align: start;
+}
+.dpia-1 {
+  margin-bottom: 20px;
+  text-align: start;
+}
+.checkbox-group label {
+  font-weight: normal;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 5px 0;
+}
+
+.expertise-select {
+  cursor: pointer;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+.checkbox-group input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.checkbox-section {
+  margin-top: 10px;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+.checkbox-section h3 {
+  margin: 10px 0;
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
 .image-gradient {
   position: relative;
   width: 100%;
@@ -7357,7 +7401,7 @@ blockquote {
 
 .data-categories-block.display {
   grid-row-gap: 10px;
-  flex-direction: column;
+  /* flex-direction: column; */
   align-items: flex-start;
 }
 
@@ -7370,6 +7414,19 @@ blockquote {
   padding-right: 10px;
   display: inline-block;
   line-height: 1.7em;
+}
+#event-time {
+  color: var(--grey);
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  /* text-align: justify; */
+  padding-right: 10px;
+  display: inline-block;
+  line-height: 1.7em;
+  flex-wrap: wrap;
+  grid-column-gap: 5px;
+  display: flex;
 }
 
 .grey-text.size {
@@ -7387,8 +7444,9 @@ blockquote {
 }
 
 .grey-text.margin {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* margin-left: 10px; */
 }
 
 .grey-text.size-text {
@@ -7967,8 +8025,8 @@ blockquote {
 
 #get-event {
   width: 100%;
-  grid-column-gap: 30px;
-  grid-row-gap: 50px;
+  grid-column-gap: 44px;
+  grid-row-gap: 80px;
   grid-template-rows: auto auto;
   grid-template-columns: 1fr 1fr 1fr;
   grid-auto-columns: 1fr;
@@ -7988,6 +8046,7 @@ blockquote {
 }
 
 .data-time.display {
+  display: flex;
   flex-direction: column;
   align-items: flex-start;
 }
@@ -8020,7 +8079,6 @@ blockquote {
 
 .data-wrap {
   grid-column-gap: 5px;
-  display: flex;
 }
 
 .data-wrap.display {
