@@ -2,15 +2,15 @@
 <!-- This site was created in Webflow. https://webflow.com --><!-- Last Published: Mon Apr 08 2024 09:40:25 GMT+0000 (Coordinated Universal Time) -->
 <html
   data-wf-domain="fundraising-wcopilot.webflow.io"
-  data-wf-page="6488b812517e451975b600b7"
+  data-wf-page="6488b812517e451975b600a4"
   data-wf-site="6488b811517e451975b60030"
   lang="en"
 >
   <head>
     <meta charset="utf-8" />
-    <title>Home 3 - Fundraising</title>
-    <meta content="Home 3 - Fundraising" property="og:title" />
-    <meta content="Home 3 - Fundraising" property="twitter:title" />
+    <title>News - Consent-Foundation</title>
+    <meta content="News - Fundraising" property="og:title" />
+    <meta content="News - Fundraising" property="twitter:title" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Webflow" name="generator" />
     <link
@@ -82,28 +82,6 @@
     </script>
   </head>
   <body>
-    <div class="pop-up">
-      <div class="pop-up-form">
-        <div
-          style="padding-top: 56.17021276595745%"
-          class="video-popup-2 w-video w-embed"
-        >
-          <iframe
-            class="embedly-embed"
-            src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKlL4xXwRF9U%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKlL4xXwRF9U&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKlL4xXwRF9U%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube"
-            scrolling="no"
-            allowfullscreen=""
-            title="Aywy. & EphRem - Adderall"
-          ></iframe>
-        </div>
-        <a
-          data-w-id="d3198fdf-92e3-2010-2c59-5f8a20e57305"
-          href="#"
-          class="link-block w-inline-block"
-          ><div class="close-icon"></div></a
-        >
-      </div>
-    </div>
     <div
       data-animation="over-left"
       data-collapse="medium"
@@ -717,8 +695,6 @@
                         />
                       </div>
                     </div>
-                  
-
                     <div class="w-commerce-commercecartfooter">
                       <div
                         aria-atomic="true"
@@ -889,281 +865,292 @@
         </div>
       </div>
     </div>
-     <div class="base-container w-container">
+   <div class="base-container w-container">
+  <div class="title-wrap">
+    <h2>Company Form</h2>
+    <p class="maxw-830px">Join Our Community for Exclusive Benefits and Opportunities</p>
+    <div class="contacts-3-form-wrapper w-form">
+      <form id="email-form-2" name="email-form-2" class="contacts-3-form" onsubmit="AddMember(event)">
+        <div class="contact-3-inputs-wrapper">
+          <input class="contacts-3-input w-input" maxlength="256" name="name" placeholder="Your name" type="text" id="name" required />
+          <input class="contacts-3-input last-child w-input" maxlength="256" name="email" placeholder="Email" type="email" id="email" required />
+        </div>
+        <div class="contact-3-inputs-wrapper">
+          <input class="contacts-3-input w-input" maxlength="256" name="contact" placeholder="Contact Number" type="text" id="contact" required />
+          <select id="member-type" name="member-type" required class="contacts-3-input select-input w-select">
+            <option value="">Select Member Type</option>
+            <option value="Member-1">Member-1</option>
+            <option value="Member-2">Member-2</option>
+            <option value="Member-3">Member-3</option>
+            <option value="Member-4">Member-4</option>
+          </select>
+        </div>
+        <div class="contact-3-inputs-wrapper">
+          <input class="contacts-3-input w-input" maxlength="256" name="company-name" placeholder="Company Name" type="text" id="company-name" required />
+          <select id="designation" name="designation" required class="contacts-3-input select-input w-select">
+            <option value="">Designation</option>
+            <option value="D-1">D-1</option>
+            <option value="D-2">D-2</option>
+            <option value="D-3">D-3</option>
+            <option value="D-4">D-4</option>
+          </select>
+        </div>
+        <div class="contact-3-inputs-wrapper">
+            <input class="contacts-3-input-main w-input" maxlength="256" name="linkedin" placeholder="LinkedIn URL" type="text" id="linkedin" required />
       
-        <div class="process-item-wrapper-1 reverse consent-item head-2" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-          <div class="process-content-wrapper ">
-            <div class="process-number-wrapper reverse">
-            </div>
-            <div class="process-content reverse-main">
-              <h4>Current Approach for Consent Collection</h4>
-              <p class="p-blog">
-               Businesses use a range of methods to gather user consents, from simple website checkboxes to complex consent management platforms. However, these methods often lack standardization and clarity, potentially failing to meet evolving legal standards and leading to inconsistencies in how consents are collected and documented. 
-              </p>              
-            </div>
+<div class="contacts-3-input w-input expertisee">
+    <div class="ex" onclick="toggleCheckboxGroup()">
+        Expertise
+        <i class="fa-solid fa-angle-down arrow"></i>
+    </div>
+    <div class="tags" id="tags-container"></div>
+    <div class="checkbox-group">
+        <div class="checkbox-section">
+            <h3 class="dpia">DPIA</h3>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Gap Assessment" onclick="updateTags()"> Gap Assessment
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Concur" onclick="updateTags()"> Concur
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> One Trust
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Consent Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Consent Technology
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Regulatory Compliance
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Protection Officer
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy by Design
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Gap Assessment" onclick="updateTags()"> Data Breach Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Concur" onclick="updateTags()"> Data Principal Rights Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Mapping
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Discovery Inventory
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Third-Party Risk Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Audits
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Policy Development
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Training
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Awareness
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Minimization
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Incident Response Planning
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Cross-Border Data Transfers
+            </label>
+        </div>
+        <div class="checkbox-section">
+            <h3 class="dpia">ROPA</h3>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Gap Assessment" onclick="updateTags()"> Cybersecurity
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Concur" onclick="updateTags()"> DPDPA Consultancy
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Legal Consultancy
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Governance
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Classification
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Sharing Agreements
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Risk Assessment
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Vendor Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Lifecycle Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Compliance
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Reporting
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Engineering
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> PET
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Tools
+            </label>
+        </div>
+    </div>
+</div>
+<script>
+    function toggleCheckboxGroup() {
+        var checkboxGroup = document.querySelector('.checkbox-group');
+        checkboxGroup.style.display = checkboxGroup.style.display === 'none' ? 'block' : 'none';
+    }
 
-          </div>
-          <div class="process-image-wrapper">
-            <img src="6488b811517e451975b60030/6499607a934689bd3765a95e_Mission%20image%2001.webp" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 1279px) 44vw, (max-width: 1919px) 526.5px, 661.5px" srcset="
-                6488b811517e451975b60030/6499607a934689bd3765a95e_Mission%20image%2001-p-500.webp 500w,
-                6488b811517e451975b60030/6499607a934689bd3765a95e_Mission%20image%2001.webp       600w
-              " alt="" class="image-cover">
-          </div>
-        </div>
-          <div
-class=" head-2"
-        >
-          <h3>Standardized Consent Management for Every Industry</h3>
-          <p>
-            Consent Directory offers a standardized, transparent solution for managing user consents across multiple industries, from Fintech to Fitness. With a comprehensive catalogue of consent purposes, industry-specific categorization, multilingual support, and adherence to DPDPA guidelines, it revolutionizes consent management, enhancing trust and compliance.
-          </p>          
-        </div>
-        </div>       
+    function updateTags() {
+        var tagsContainer = document.getElementById('tags-container');
+        tagsContainer.innerHTML = '';
+        var checkboxes = document.querySelectorAll('.checkbox-group input[type="checkbox"]:checked');
+        checkboxes.forEach(function(checkbox) {
+            var tag = document.createElement('div');
+            tag.className = 'tag';
+            tag.innerHTML = checkbox.value + ' <i class="fa-solid fa-times" onclick="removeTag(\'' + checkbox.value + '\')"></i>';
+            tagsContainer.appendChild(tag);
+        });
+    }
+
+    function removeTag(value) {
+        var checkboxes = document.querySelectorAll('.checkbox-group input[type="checkbox"]');
+        checkboxes.forEach(function(checkbox) {
+            if (checkbox.value === value) {
+                checkbox.checked = false;
+            }
+        });
+        updateTags();
+    }
+</script>
+  
+</div>
+  <input type="submit" data-wait="Please wait..." class="primary-button w-button" value="Submit" />
+</div>
+      
+      </form>
+      <div class="success-message w-form-done">
+        <div>Thank you! Your submission has been received!</div>
+      </div>
+      <div class="error-message w-form-fail">
+        <div>Oops! Something went wrong while submitting the form.</div>
       </div>
     </div>
-    <div
-          data-w-id="9b811b3e-8f46-12d3-2e96-46c18d114d7d"
-          style="opacity: 0"
-          class="title-2"
-        >
-          <h3>Gaps And Issues</h3>
-          <p>Despite these efforts, several gaps and issues remain:</p>
-       
-        </div>
-        </div>
-       <div class="base-container w-container">
-        
-         <div class="carts-about">
-          <div class="cart-content-wrap-main" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-             <img src="my-images/user.png" loading="lazy" alt="">
-            </div>
-            <h5>User Unfriendliness</h5>
-            <p class="grey-text size-main">
-               Many consent collection practices are not user-friendly, leading to confusion and mistrust among users.
+  </div>
+</div>
 
-            </p>
-          </div>
-          <div class="cart-content-wrap" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-             <img src="my-images/Standardization.png" loading="lazy" alt="">
-            </div>
-            <h5>Lack of Standardization</h5>
-            <p class="grey-text size-main">
-             The absence of a comprehensive, standardized approach to consent management results in inefficiencies and increased risk of non-compliance.
+<script>
 
-            </p>
-          </div>
-          <div class="cart-content-wrap" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-             <img src="my-images/Transparency-2.png" loading="lazy" alt="">
-            </div>
-            <h5>Transparency issue</h5>
-            <p class="grey-text size-main">
-              Users often find it difficult to understand how their data is being used, leading to a lack of transparency in consent practices.
-            </p>
-          </div>
-        </div>
-        <div class="carts-about head-2">
-          <div class="cart-content-wrap-main" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-             <img src="my-images/language multi.png" loading="lazy" alt="">
-            </div>
-            <h5>Language Barrier</h5>
-            <p class="grey-text size-main">
-               In a linguistically diverse country like India, providing consent statements in multiple languages is a significant challenge, often leading to non-compliance with local language requirements.
+document.addEventListener('DOMContentLoaded', (event) => {
+    const selectElement = document.getElementById('expertise');
+    const selectAllOption = selectElement.querySelector('option[value="select-all"]');
 
-            </p>
-          </div>
-          <div class="cart-content-wrap" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-              <img src="my-images/Inconsistent Documentation.png" loading="lazy" alt="">
-            </div>
-            <h5>Inconsistent Documentation</h5>
-            <p class="grey-text size-main">
-             The methods of documenting consents are often inconsistent, leading to gaps in records that can result in legal and compliance risks.
+    selectElement.addEventListener('click', (event) => {
+        const clickedOption = event.target;
 
-            </p>
-          </div>
-          <div class="cart-content-wrap" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-              <img src="my-images/Audit.png" loading="lazy" alt="">
-            </div>
-            <h5>Audit Difficulties</h5>
-            <p class="grey-text size-main">
-              Without a clear and immutable record of user consents, businesses face challenges in providing verifiable audit trails for regulatory compliance.
-
-            </p>
-          </div>
-        </div>
-         </div>
-           
-       <div id="healthcare" class="healthcare image-gradient">
-        <div class="colors-1">
-            <div class="my-div">
-              <h1 id="main-title" class="white-text-main h1-main">Our Features</h1>
-            <p id="main-content"></p>
-            </div>
-        </div>
-    </div>
-    <div class="base-container w-container">
-      
-        <div class="blog-list arte-img">
-             <div class="blog-it" onclick="changeContent('Comprehensive Compliance', 'my-images/art-1.png', 'Ensures legal compliance and clarity in consent communications.')">
-                <a href="#" class="blog-image-link">
-                    <img src="my-images/art-1.png" alt="Health Care" class="image-cover-color">
-                    <img  src="my-images/architecture-consent-foundation-icon.png" class="cart-4"> 
-                </a>
-                <div class="blog-content-wrapper">
-                    <a href="#" class="w-inline-block">
-                        <h5 class="blog-post-title">Comprehensive Compliance</h5>
-                    </a>
-                </div>
-            </div>
-               
-           
-            <div class="blog-it" onclick="changeContent('Extensive Repository', 'my-images/art-2.png', 'Offers over standardized 20,000+ consent purposes from diverse industries, refined through rigorous research and collaboration.')">
-                <a href="#" class="blog-image-link">
-                    <img src="my-images/art-2.png" alt="Finance" class="image-cover-color">
-                    <img  src="my-images/architecture-consent-foundation-icon.png" class="cart-4">
-                </a>
-                <div class="blog-content-wrapper ">
-                    <a href="#" class="w-inline-block">
-                        <h5 class="blog-post-title">Extensive Repository</h5>
-                    </a>
-                </div>
-            </div>
-            <div class="blog-it" onclick="changeContent('Industry Specific', 'my-images/art-3.png', 'Tailors consent purposes for sectors like Fintech, Insurance, HealthTech etc for relevancy and precision.')">
-                <a href="#" class="blog-image-link">
-                    <img src="my-images/art-3.png" alt="E-Commerce" class="image-cover-color">
-                    <img  src="my-images/architecture-consent-foundation-icon.png" class="cart-4">
-                </a>
-                <div class="blog-content-wrapper">
-                    <a href="#" class="w-inline-block">
-                        <h5 class="blog-post-title">Industry Specific</h5>
-                    </a>
-                </div>
-            </div>
-            <div class="blog-it" onclick="changeContent('Clear and Concise', 'my-images/art-4.png', ' Provides user-friendly consent statements that enhance understanding and trust.')">
-                <a href="#" class="blog-image-link">
-                    <img src="my-images/art-4.png" alt="Technology" class="image-cover-color">
-                    <img  src="my-images/architecture-consent-foundation-icon.png" class="cart-4">
-                </a>
-                <div class="blog-content-wrapper ">
-                    <a href="#" class="w-inline-block">
-                        <h5 class="blog-post-title">Clear and Concise</h5>
-                    </a>
-                </div>
-            </div>
-            <div class="blog-it" onclick="changeContent('Multilingual Support', 'my-images/art-5.png', 'Includes consent statements in various Indian languages to ensure accessibility and comprehension nationwide.')">
-                <a href="#" class="blog-image-link">
-                    <img src="my-images/art-5.png" alt="Insurance" class="image-cover-color">
-                    <img  src="my-images/architecture-consent-foundation-icon.png" class="cart-4">
-                </a>
-                <div class="blog-content-wrapper ">
-                    <a href="#" class="w-inline-block">
-                        <h5 class="blog-post-title">Multilingual Support</h5>
-                    </a>
-                </div>
-            </div>
-               <div class="blog-it" onclick="changeContent('Open-Source', 'my-images/art-6.png', 'Allows ongoing enhancements and updates by welcoming contributions from organizations and developers.')">
-                <a href="#" class="blog-image-link">
-                    <img src="my-images/art-6.png" alt="Insurance" class="image-cover-color">
-                    <img  src="my-images/architecture-consent-foundation-icon.png" class="cart-4">
-                </a>
-                <div class="blog-content-wrapper ">
-                    <a href="#" class="w-inline-block">
-                        <h5 class="blog-post-title">Open-Source</h5>
-                    </a>
-                </div>
-            </div>
-        </div>
-         </div>
-    </div>
-     <div
-          data-w-id="9b811b3e-8f46-12d3-2e96-46c18d114d7d"
-          style="opacity: 0"
-          class="title-2"
-        >
-        <div class="head-2">
-          <h2>The Consent Directory Initiatives</h2>
-          <p>More than just a tool, the Consent Directory is an initiative promoting transparency, compliance, and user trust in data handling practices. By providing a comprehensive, open- source resource, we empower businesses to manage user consent effectively and responsibly</p>
-       </div>
-        </div>
-        </div>
-       <div class="base-container w-container">
-        
-         <div class="carts-about-main head-2">
-          <div class="cart-content-wrap-main-1" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-              <img src="my-images/Comliance.png" loading="lazy" alt="">
-            </div>
-            <h5>Simplified Compliance </h5>
-            <p class="grey-text size-main">
-               Navigating DPDPA compliance is made easy with ready- to-use, legally compliant consent statements provided by the Consent Directory.
-
-            </p>
-          </div>
-          <div class="cart-content-wrap-main-1" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-             <img src="my-images/Enhanced copy.png" loading="lazy" alt="">
-            </div>
-            <h5>Enhanced Clarity </h5>
-            <p class="grey-text size-main">
-             Our pre-crafted consent statements ensure clarity and transparency in communication with users, addressing the challenge of creating understandable consent statements
-            </p>
-          </div>
-          <div class="cart-content-wrap-main-1" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-             <img src="my-images/Sector- specific Solution.png" loading="lazy" alt="">
-            </div>
-            <h5>Sector-Specific Solutions </h5>
-            <p class="grey-text size-main">
-             The directory’s industry-specific categorization simplifies finding relevant consent purposes tailored to your sector, streamlining the compliance process.
-
-            </p>
-          </div>
-          <div class="cart-content-wrap-main-1" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;">
-            <div class="logo-block">
-              <img src="my-images/language barrier.png" loading="lazy" alt="">
-            </div>
-            <h5>Overcoming Language Barriers </h5>
-            <p class="grey-text size-main">
-               Multilingual support addresses linguistic diversity, ensuring that consent statements are understood by all users, regardless of their language.
-
-            </p>
-          </div>
-        </div> 
-        </div>
-        <section class="section green-bgr">
-      
-      
-      <div class="base-container w-container">
-        <div class="about-block-2">
-          <h1 class="h1-1-main-1" data-w-id="b5d57153-3454-c8ea-40fa-2fcd7f6e334f" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="banner-heading">
-            Join the movement
-          </h1>
-          <p class="bold-paragraph-2" data-w-id="b5d57153-3454-c8ea-40fa-2fcd7f6e3351" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="bold-text spacing">
-            Comprehensive list of consent purposes, industry-specific categorization, multilingual support, and is open-source, ensuring transparent and compliant consent management. Adopt the Consent Directory to enhance your data protection strategy and build a culture of transparency and trust.
-
-          </p>
-          <div data-w-id="b5d57153-3454-c8ea-40fa-2fcd7f6e3353" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" class="description-button">
+        if (clickedOption.value === 'select-all') {
+            if (clickedOption.selected) {
+                Array.from(selectElement.options).forEach(option => option.selected = true);
+            } else {
+                Array.from(selectElement.options).forEach(option => option.selected = false);
+            }
+        } else {
             
-            
-            <a data-w-id="b5d57153-3454-c8ea-40fa-2fcd7f6e3353" style="opacity: 1; transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;" href="become-a-volunteer.html" class="primary-button white w-button get-start">Start Using</a>
-             <div class="button-header">
-            <a href="" class="primary-button w-button learn-1 get-start"
-              >Learn More</a
-            >
-          </div>
-          </div>
-        </div>
-        
-      </div>
-      
-    </section>
-   
-     <script src="script.js"></script>
+            const allSelected = Array.from(selectElement.options)
+                                    .filter(option => option.value !== 'select-all')
+                                    .every(option => option.selected);
+
+            selectAllOption.selected = allSelected;
+        }
+    });
+});
+
+  </script>
+
+<script>
+function AddMember(event) {
+    event.preventDefault();
+
+    const formData = new FormData(event.target);
+    const selectedOptions = Array.from(document.querySelectorAll('.checkbox-group input[type="checkbox"]:checked')).map(option => option.value);
+
+    let contactNumber = formData.get('contact');
+    contactNumber = contactNumber ? parseInt(contactNumber, 10) : null;
+
+    if (isNaN(contactNumber)) {
+        alert('Please enter a valid contact number.');
+        return;
+    }
+
+    const formDataObj = {
+        full_name: formData.get('name'),
+        email: formData.get('email'),
+        membership_type: formData.get('member-type'),
+        contact_number: contactNumber,
+        company: formData.get('company-name'),
+        designation: formData.get('designation'),
+        linkedin_profile: formData.get('linkedin'),
+        expertise: selectedOptions,
+    };
+
+    console.log('Form data:', formDataObj);
+
+    sendEmail(formDataObj);
+}
+
+function sendEmail(data) {
+    const url = "https://consent-website-backend.onrender.com/member/become-member";
+
+    fetch(url, {
+        method: 'POST',
+        headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+    })
+        .then(response => {
+            if (response.ok) {
+                return response.json().catch(() => response.text());
+            } else {
+                return response.json().then(err => {
+                    console.error('Server error details:', err);
+                    throw new Error(`Failed to send email: ${JSON.stringify(err)}`);
+                });
+            }
+        })
+        .then(data => {
+            console.log('Request successful:', data);
+            alert('Member added successfully!');
+        })
+        .catch(error => {
+            console.error('Error adding member:', error);
+            alert(`Failed to add member: ${error.message}`);
+        });
+}
+</script>
+ 
+ 
     <script
       src="js/jquery-3.5.1.min.dc5e7f18c8.js?site=6488b811517e451975b60030"
       type="text/javascript"

@@ -167,6 +167,37 @@ body {
   justify-content: center;
   /* padding-right: 100px; */
 }
+.white-text-2 {
+  /* width: 900px; */
+  /* background-color: #1e1e1e; */
+  color: white;
+  text-align: center;
+
+  align-items: center;
+  justify-content: center;
+  /* padding-right: 100px; */
+}
+.members-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.member-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.member-card h3 {
+  margin: 0 0 10px;
+}
+
+.member-card p {
+  margin: 5px 0;
+}
 
 #main-content {
   /* background-color: #004ae2; */
@@ -7018,6 +7049,14 @@ blockquote {
   font-size: 14px;
   display: inline-block;
 }
+.label-2 {
+  border: 1px solid var(--white);
+  border-radius: 50px;
+  margin-bottom: 10px;
+  padding: 6px 15px;
+  font-size: 14px;
+  display: inline-block;
+}
 .line {
   line-height: 1.7em;
 }
@@ -7028,6 +7067,7 @@ blockquote {
 .learn-1 {
   border: 1px solid var(--white);
 }
+
 .label.hover {
   color: var(--text-dark);
   flex: none;
@@ -7246,6 +7286,10 @@ blockquote {
 
 .bold-paragraph.max-w {
   max-width: 825px;
+}
+.bold-paragraph.max-w-2 {
+  max-width: 825px;
+  font-size: 20px;
 }
 
 .heart-absolute {
