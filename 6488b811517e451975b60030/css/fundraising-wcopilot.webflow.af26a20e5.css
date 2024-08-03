@@ -24,10 +24,6 @@ summary {
   display: block;
 }
 
-/* .my-div {
-  background: linear-gradient(to left, black, transparent);
-} */
-
 .container {
   position: relative;
   width: 100%;
@@ -37,6 +33,12 @@ summary {
 }
 
 .checkbox-group {
+  display: none;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+  max-height: 200px;
+  overflow-y: auto;
   width: 100%;
   padding: 10px;
   border: 1px solid #ccc;
@@ -5246,7 +5248,54 @@ blockquote {
   width: 100%;
   display: grid;
 }
-
+.arrow {
+  font-size: 13px;
+}
+.contacts-3-input-main {
+  border: 1px solid var(--white);
+  background-color: var(--white);
+  border-radius: 10px;
+  min-height: 55px;
+  margin-bottom: 0;
+  padding: 16px 18px;
+  font-size: 16px;
+  transition: all 0.2s;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+.expertisee {
+  position: relative;
+  text-align: start;
+  padding-top: 10px;
+  margin: auto;
+}
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+.tag {
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 5px;
+  margin: 2px;
+  display: flex;
+  align-items: center;
+}
+.tag i {
+  margin-left: 5px;
+  cursor: pointer;
+}
+.ex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* margin-bottom: 20px; */
+}
 .contacts-3-input {
   border: 1px solid var(--white);
   background-color: var(--white);

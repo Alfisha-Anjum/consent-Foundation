@@ -12,6 +12,7 @@
   <meta content="Webflow" name="generator" />
   <link href="6488b811517e451975b60030/css/fundraising-wcopilot.webflow.af26a20e5.css" rel="stylesheet"
     type="text/css" />
+    
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com" rel="preconnect" />
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
@@ -1083,246 +1084,154 @@
           </select>
         </div>
         <div class="contact-3-inputs-wrapper">
-            <input class="contacts-3-input w-input" maxlength="256" name="linkedin" placeholder="LinkedIn URL" type="text" id="linkedin" required />
-        <!-- <div class="contact-3-inputs-wrapper"> -->
-
-
-          <div class="expertise-select" onclick="toggleCheckboxGroup()">
-    <select id="expertise" name="expertise" required class="contacts-3-input select-input w-select">
-      <option>
-    </select>  
-</div>
-
-<div class="checkbox-group">
-    <div class="checkbox-section">
-        <h3 class="dpia">DPIA</h3>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Gap Assessment"> Gap Assessment
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Concur"> Concur
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> One Trust
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Consent Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Consent Technology
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Regulatory Compliance
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Protection Officer
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy by Design
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Gap Assessment"> Data Breach Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Concur"> Data Principal Rights Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Mapping
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Discovery Inventory
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Third-Party Risk Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Audits
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Policy Development
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Training
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Awareness
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Minimization
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Incident Response Planning
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Cross-Border Data Transfers
-        </label>
+            <input class="contacts-3-input-main w-input" maxlength="256" name="linkedin" placeholder="LinkedIn URL" type="text" id="linkedin" required />
+      
+<div class="contacts-3-input w-input expertisee">
+    <div class="ex" onclick="toggleCheckboxGroup()">
+        Expertise
+        <i class="fa-solid fa-angle-down arrow"></i>
     </div>
-    <div class="checkbox-section">
-        <h3 class="dpia">ROPA</h3>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Gap Assessment"> Cybersecurity
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Concur"> DPDPA Consultancy
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Legal Consultancy
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Governance
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Classification
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Sharing Agreements
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Risk Assessment
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Vendor Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Lifecycle Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Compliance
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Reporting
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Engineering
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> PET
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Tools
-        </label>
+    <div class="tags" id="tags-container"></div>
+    <div class="checkbox-group">
+        <div class="checkbox-section">
+            <h3 class="dpia">DPIA</h3>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Gap Assessment" onclick="updateTags()"> Gap Assessment
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Concur" onclick="updateTags()"> Concur
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> One Trust
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Consent Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Consent Technology
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Regulatory Compliance
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Protection Officer
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy by Design
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Gap Assessment" onclick="updateTags()"> Data Breach Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Concur" onclick="updateTags()"> Data Principal Rights Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Mapping
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Discovery Inventory
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Third-Party Risk Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Audits
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Policy Development
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Training
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Awareness
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Minimization
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Incident Response Planning
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Cross-Border Data Transfers
+            </label>
+        </div>
+        <div class="checkbox-section">
+            <h3 class="dpia">ROPA</h3>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Gap Assessment" onclick="updateTags()"> Cybersecurity
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Concur" onclick="updateTags()"> DPDPA Consultancy
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Legal Consultancy
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Governance
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Classification
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Sharing Agreements
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Risk Assessment
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Vendor Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Data Lifecycle Management
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Compliance
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Reporting
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Engineering
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> PET
+            </label>
+            <label>
+                <input type="checkbox" name="expertise[]" value="Consent Management" onclick="updateTags()"> Privacy Tools
+            </label>
+        </div>
     </div>
 </div>
-</option>
 <script>
     function toggleCheckboxGroup() {
         var checkboxGroup = document.querySelector('.checkbox-group');
         checkboxGroup.style.display = checkboxGroup.style.display === 'none' ? 'block' : 'none';
     }
+
+    function updateTags() {
+        var tagsContainer = document.getElementById('tags-container');
+        tagsContainer.innerHTML = '';
+        var checkboxes = document.querySelectorAll('.checkbox-group input[type="checkbox"]:checked');
+        checkboxes.forEach(function(checkbox) {
+            var tag = document.createElement('div');
+            tag.className = 'tag';
+            tag.innerHTML = checkbox.value + ' <i class="fa-solid fa-times" onclick="removeTag(\'' + checkbox.value + '\')"></i>';
+            tagsContainer.appendChild(tag);
+        });
+    }
+
+    function removeTag(value) {
+        var checkboxes = document.querySelectorAll('.checkbox-group input[type="checkbox"]');
+        checkboxes.forEach(function(checkbox) {
+            if (checkbox.value === value) {
+                checkbox.checked = false;
+            }
+        });
+        updateTags();
+    }
 </script>
-  <!-- <div class="checkbox-group">
-    <div class="checkbox-section">
-
-     
-        <h3 class="dpia">DPIA</h3>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Gap Assessment" id="expertise"> Gap Assessment
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Concur"> Concur
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> One Trust
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Consent Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Consent Technology
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Regulatory Complaince
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Protection Officer
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy by Design
-        </label>
-          <label>
-            <input type="checkbox" name="expertise[]" value="Gap Assessment"> Data Breach Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Concur"> Data Principal Rights Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management">Data Mapping
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Discovery Inventory
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Third-Party Risk Management
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Audits
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Policy Development
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Training
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Awareness
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management">Data Minimization
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Incident Response Planning
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management">Cross-Border Data Transfers
-        </label>
-    </div>
- <div class="checkbox-section">
-        <h3 class="dpia">ROPA</h3>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Gap Assessment">Cybersecutrity
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Concur"> DPDPA Consultancy
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Legal Consultancy
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Governance
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Classification
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Sharing Agreements
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Risk Assessment
-        </label>
-        <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management">Vendor Management 
-        </label>
-         <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Data Lifecycle Management
-        </label>
-         <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Cpmplaince
-        </label>
-         <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Reporting
-        </label>
-
-         <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Engineering
-        </label>
-         <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> PET
-        </label>
-         <label>
-            <input type="checkbox" name="expertise[]" value="Consent Management"> Privacy Tools
-        </label>
-    </div>
-</div> -->
+  
 </div>
   <input type="submit" data-wait="Please wait..." class="primary-button w-button" value="Submit" />
 </div>
@@ -1366,63 +1275,70 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
   </script>
 
- <script>
+<script>
 function AddMember(event) {
-  event.preventDefault();
+    event.preventDefault();
 
-  const formData = new FormData(event.target);
-  const selectElement = document.getElementById("expertise");
-  const selectedOptions = Array.from(selectElement.selectedOptions).map(option => option.value);
-  
-  const formDataObj = {
-    full_name: formData.get('name'),
-    email: formData.get('email'),
-    membership_type: formData.get('member-type'),
-    contact_number: parseInt(formData.get('contact'), 10) || null,
-    company: formData.get('company-name'),
-    designation: formData.get('designation'),
-    // created_at: new Date().toISOString(),
-    linkedin_profile: formData.get('linkedin'),
-    expertise: selectedOptions,
-    // admin_permission: true
-  };
+    const formData = new FormData(event.target);
+    const selectedOptions = Array.from(document.querySelectorAll('.checkbox-group input[type="checkbox"]:checked')).map(option => option.value);
 
-  console.log('Form data:', formDataObj);
+    let contactNumber = formData.get('contact');
+    contactNumber = contactNumber ? parseInt(contactNumber, 10) : null;
 
-  sendEmail(formDataObj);
+    if (isNaN(contactNumber)) {
+        alert('Please enter a valid contact number.');
+        return;
+    }
+
+    const formDataObj = {
+        full_name: formData.get('name'),
+        email: formData.get('email'),
+        membership_type: formData.get('member-type'),
+        contact_number: contactNumber,
+        company: formData.get('company-name'),
+        designation: formData.get('designation'),
+        linkedin_profile: formData.get('linkedin'),
+        expertise: selectedOptions,
+    };
+
+    console.log('Form data:', formDataObj);
+
+    sendEmail(formDataObj);
 }
 
 function sendEmail(data) {
-  const url = "https://consent-website-backend.onrender.com/member/become-member";
+    const url = "https://consent-website-backend.onrender.com/member/become-member";
 
-  fetch(url, {
-    method: 'POST',
-    headers: {
-      'Accept': 'application/json',
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(data),
-  })
-    .then(response => {
-      if (response.ok) {
-        return response.json().catch(() => response.text());
-      } else {
-        return response.json().then(err => {
-          console.error('Server error details:', err);
-          throw new Error(`Failed to send email: ${JSON.stringify(err)}`);
+    fetch(url, {
+        method: 'POST',
+        headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(data),
+    })
+        .then(response => {
+            if (response.ok) {
+                return response.json().catch(() => response.text());
+            } else {
+                return response.json().then(err => {
+                    console.error('Server error details:', err);
+                    throw new Error(`Failed to send email: ${JSON.stringify(err)}`);
+                });
+            }
+        })
+        .then(data => {
+            console.log('Request successful:', data);
+            alert('Member added successfully!');
+        })
+        .catch(error => {
+            console.error('Error adding member:', error);
+            alert(`Failed to add member: ${error.message}`);
         });
-      }
-    })
-    .then(data => {
-      console.log('Request successful:', data);
-      alert('Member added successfully!');
-    })
-    .catch(error => {
-      console.error('Error adding member:', error);
-      alert(`Failed to add member: ${error.message}`);
-    });
 }
 </script>
+
+
   <script src="js/jquery-3.5.1.min.dc5e7f18c8.js?site=6488b811517e451975b60030" type="text/javascript"
     integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="6488b811517e451975b60030/js/webflow.51672e485.js" type="text/javascript"></script>
