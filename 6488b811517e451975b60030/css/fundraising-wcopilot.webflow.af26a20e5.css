@@ -6,6 +6,7 @@
 
 body {
   margin: 0;
+  overflow-x: hidden;
 }
 
 article,
@@ -30,6 +31,78 @@ summary {
   max-width: 600px;
   margin: 0 auto;
   overflow: hidden;
+}
+
+/* For the entire page body::-webkit-scrollbar {
+  width: 8px; /* Width of the vertical scrollbar */
+  height: 8px; /* Height of the horizontal scrollbar */
+} */
+
+/* Track */
+/* body::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+body::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+body::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* For a specific element */
+/* .custom-scrollbar {
+  width: 300px;
+  height: 200px;
+  overflow: auto;
+} */
+
+/* .custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+} */
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Global styles for all scrollbars */
+* {
+  scrollbar-width: thin; 
+  scrollbar-color: #888 #f1f1f1; /* For Firefox */
+}
+*/
+
+/* For Webkit-based browsers */
+/* *::-webkit-scrollbar {
+  width: 8px; 
+  height: 8px;
+} */
+
+/* Track */
+*::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+*::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+*::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
 
 .checkbox-group {
@@ -1289,15 +1362,16 @@ textarea.w-select {
   .w-col-small-12 {
     width: 100%;
   }
-  #members-container {
-    grid-column-gap: 30px;
-    grid-row-gap: 30px;
-    grid-template-rows: auto;
-    grid-template-columns: 1fr;
-    grid-auto-columns: 1fr;
-    display: grid;
-    width: 100%;
-  }
+  
+  .members {
+        grid-column-gap: 30px;
+        grid-row-gap: 30px;
+        grid-template-rows: auto;
+        grid-template-columns: 1fr;
+        grid-auto-columns: 1fr;
+        display: grid;
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 479px) {
@@ -1808,20 +1882,7 @@ textarea.w-select {
   outline: 0;
 }
 
-@media screen and (max-width: 767px) {
-  .w-nav-brand {
-    padding-left: 10px;
-  }
-  #members-container {
-    grid-column-gap: 30px;
-    grid-row-gap: 30px;
-    grid-template-rows: auto;
-    grid-template-columns: 1fr;
-    grid-auto-columns: 1fr;
-    display: grid;
-    width: 100%;
-  }
-}
+
 
 .w-lightbox-backdrop {
   cursor: auto;
@@ -2064,6 +2125,7 @@ textarea.w-select {
     height: 96vh;
     margin-top: 2vh;
   }
+  
   #members-container {
     grid-column-gap: 30px;
     grid-row-gap: 30px;
@@ -2155,6 +2217,10 @@ textarea.w-select {
 
 .w-dyn-item-main {
   display: flex;
+}
+.w-dyn-item{
+  display: grid;
+  grid-template-columns: 1fr;
 }
 
 .w-richtext figure {
@@ -3744,15 +3810,7 @@ textarea.w-select {
   .w-commerce-commercelayoutsidebar {
     flex-basis: auto;
   }
-  #members-container {
-    grid-column-gap: 30px;
-    grid-row-gap: 30px;
-    grid-template-rows: auto;
-    grid-template-columns: 1fr;
-    grid-auto-columns: 1fr;
-    display: grid;
-    width: 100%;
-  }
+ 
 }
 
 @media screen and (max-width: 479px) {
@@ -7772,7 +7830,19 @@ blockquote {
   width: 100%;
 }
 
+/* .members {
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-auto-columns: 1fr;
+  display: grid;
+  width: 100%;
+} */
+
 .volunteers-list-wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
   width: 100%;
 }
 
@@ -9348,6 +9418,22 @@ blockquote {
   }
 }
 
+@media screen and (max-width: 767px) {
+
+  .w-nav-brand {
+    padding-left: 10px;
+  }
+  #members-container {
+    grid-column-gap: 30px;
+    grid-row-gap: 30px;
+    grid-template-rows: auto;
+    grid-template-columns: 1fr;
+    grid-auto-columns: 1fr;
+    display: grid;
+    width: 100%;
+  }
+}
+
 @media screen and (max-width: 991px) {
   h1 {
     font-size: 48px;
@@ -9355,6 +9441,27 @@ blockquote {
 
   h2 {
     font-size: 38px;
+  }
+.process-content.reverse-main {
+  width: 100%;
+  padding-right: 0px;
+  text-align: left;
+  margin: auto;
+}
+  
+.process-item-wrapper-1 {
+  /* align-items: center;0 */
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+  .carts-about-main {
+    grid-column-gap: 25px;
+    width: 100%;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
   }
 
   #members-container {
@@ -9366,6 +9473,7 @@ blockquote {
     display: grid;
     width: 100%;
   }
+  
   .section.changelog-banner {
     min-height: 300px;
   }
@@ -10129,6 +10237,14 @@ blockquote {
     flex-direction: column;
   }
 
+
+  .home-description-banner-consent {
+        background-position: 50%;
+        background-size: cover;
+        flex-direction: column;
+        padding-bottom: 50px
+  }
+
   .home-description-banner {
     background-position: 50%;
     background-size: cover;
@@ -10207,6 +10323,14 @@ blockquote {
     border-bottom-style: none;
     border-left-style: none;
     width: 100%;
+  }
+
+  .carts-about-main {
+    grid-column-gap: 25px;
+    width: 100%;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr;
   }
 
   .grid-description.last-description {
