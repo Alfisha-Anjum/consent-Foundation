@@ -4844,7 +4844,7 @@ blockquote {
 
 .blog-post-title {
   /* margin-top: 20px; */
-  margin-bottom: 0;
+  margin-bottom: 40px;
   font-weight: 500;
   transition: color 0.3s;
 }
@@ -6188,7 +6188,7 @@ margin-left: 20px;
 }
 
 .blog-content-wrapper {
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .blog-content-wrapper.padding-0 {
@@ -9589,13 +9589,14 @@ margin-left: 20px;
   }
 
  .color-item {
-  width: 80%;
+  /* width: 80%; */
  margin: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin: 20px;
    
  }
+
  .cart-2 {
     grid-column-gap: 40px;
     grid-row-gap: 40px;
@@ -11212,6 +11213,16 @@ margin-left: 20px;
   .grid-system-wrapper {
     flex-direction: row;
   }
+
+  .color-item {
+  width: 100%;
+ margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    margin: 20px;
+   
+ }
+
 
   .grid-system {
     flex-direction: column;
