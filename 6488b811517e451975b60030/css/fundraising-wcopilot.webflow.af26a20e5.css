@@ -48,6 +48,14 @@ body::-webkit-scrollbar-thumb {
   background: #888;
 }
 
+.a-2 {
+    color: var(--primary);
+    align-items: center;
+    font-size: 30px;
+    line-height: 1.2em;
+    text-decoration: no
+}
+
 /* Handle on hover */
 body::-webkit-scrollbar-thumb:hover {
   background: #555;
@@ -74,11 +82,13 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .memberDiv{
-  margin: auto;
+  /* margin: auto; */
+  text-align: start;
   align-items: center;
-  width: 80%;
+  /* width: 80%; */
   display: flex;
   justify-content: space-between;
+  padding-right: 30px;
 }
 /* For a specific element */
 /* .custom-scrollbar {
@@ -5109,25 +5119,27 @@ blockquote {
 
 .team-card-image {
   color: var(--primary);
-  border-radius: 10px;
+  /* border-radius: 10px; */
   width: 100%;
-  height: 350px;
+  /* height: 350px; */
   display: block;
   overflow: hidden;
 }
 
 .team-card-content-wrapper {
-  text-align: center;
+  /* text-align: center; */
   background-color: #f9f9fa;
-  border-radius: 10px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
   flex-direction: column;
-  margin-bottom: 15px;
-  margin-left: 15px;
-  margin-right: 15px;
+   margin-bottom: 15px;
+  /* margin-left: 15px; */
+  /* margin-right: 15px;  */
   padding-top: 20px;
+  padding-left: 20px;
   padding-bottom: 20px;
   display: flex;
-  position: absolute;
+  /* position: absolute; */
   top: auto;
   bottom: 0%;
   left: 0%;
@@ -7085,8 +7097,9 @@ margin-left: 20px;
 .button-header {
   flex: none;
 }
+
 .ledger {
-  height: 500px;
+  height: 700px;
   width: full;
   text-align: center;
   display: flex;
@@ -7214,6 +7227,14 @@ margin-left: 20px;
   height: 100%;
 }
 
+.image-cover-main-2 {
+  object-fit: cover;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  width: 100%;
+  height: 100%;
+}
+
 .image-cover-events {
   object-fit: cover;
   width: 100%;
@@ -7252,6 +7273,7 @@ margin-left: 20px;
 
 .image-cover.hover {
   transition: transform 0.3s, opacity 0.3s;
+  border-radius: 0px;
 }
 
 .image-cover.hover:hover {
@@ -8223,8 +8245,10 @@ margin-left: 20px;
 
 .carts-about {
   grid-column-gap: 30px;
+  grid-row-gap: 30px;
   width: 100%;
   margin-top: 50px;
+  margin-bottom: 50px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
@@ -8256,6 +8280,11 @@ margin-left: 20px;
 
   border-radius: 10px;
   padding: 25px;
+}
+
+.p-main-1{
+  text-align: left;
+  padding-left: 10px;
 }
 
 .image-cart {
