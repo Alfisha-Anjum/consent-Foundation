@@ -5560,11 +5560,22 @@ blockquote {
 .contacts-3-form-wrapper {
   background-color: var(--white-smoke);
   border-radius: 10px;
-  width: 85%;
+  width: 100%;
   margin-top: 40px;
   margin-bottom: 0;
   padding: 40px;
 }
+
+.contacts-3-form-wrapper-member {
+  background-color: var(--white-smoke);
+  border-radius: 10px;
+  width: 80%;
+  margin-top: 40px;
+  margin-bottom: 0;
+  padding: 40px;
+}
+
+
 
 .contact-3-inputs-wrapper {
   grid-column-gap: 20px;
@@ -9514,7 +9525,7 @@ margin-left: 20px;
   }
 
   .contacts-3-form-wrapper {
-    width: 70%;
+    width: 100%;
   }
 
   .footer-wrapper {
@@ -9707,6 +9718,17 @@ margin-left: 20px;
   margin: auto;
   
 }
+
+
+.contacts-3-form-wrapper {
+  grid-row-gap: 20px;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  display: flex;
+}
+
 .empower-img {
   padding-left: 50px;
   height:200px;
@@ -10735,6 +10757,8 @@ margin-left: 20px;
 }
 
 
+
+
   .right-content-2{
   display: flex;
   flex-direction: column;
@@ -11101,7 +11125,7 @@ margin-left: 20px;
   }
 
   .contacts-3-form-wrapper {
-    width: 100%;
+    width: 90%;
     margin-top: 20px;
     padding: 20px;
   }
