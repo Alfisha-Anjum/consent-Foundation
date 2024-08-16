@@ -1782,6 +1782,7 @@ textarea.w-select {
   height: 100%;
   display: inline-block;
   position: relative;
+  
 }
 
 .w-slider-nav {
@@ -4450,6 +4451,10 @@ blockquote {
 .h3-mobile {
   font-size: 30px;
 }
+
+.h3-3{
+  font-size: 24px;
+}
 .get-start {
   width: 300px;
 }
@@ -5139,13 +5144,15 @@ blockquote {
   color: var(--primary);
   /* border-radius: 10px; */
   width: 100%;
-  /* height: 350px; */
+  height: 350px;
   display: block;
   overflow: hidden;
 }
 
 .team-card-content-wrapper {
   /* text-align: center; */
+  /* width: 60%; */
+  /* height: 60%; */
   background-color: #f9f9fa;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
@@ -7271,6 +7278,7 @@ margin-left: 20px;
   object-fit: cover;
   width: 100%;
   height: 100%;
+  
 }
 
 .image-class{
@@ -7286,6 +7294,7 @@ margin-left: 20px;
   width: 100%;
   height: 100%;
 }
+
 
 .image-cover-events {
   object-fit: cover;
@@ -7367,11 +7376,13 @@ margin-left: 20px;
 
 .image-wrapper-slide {
   height: 580px;
+  
 }
 
 .image-wrapper-slide.height {
   height: 100%;
   position: relative;
+  
 }
 
 .figure-slider {
@@ -8060,10 +8071,10 @@ margin-left: 20px;
   grid-column-gap: 30px;
   grid-row-gap: 30px;
   grid-template-rows: auto;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-auto-columns: 1fr;
   display: grid;
-  width: 100%;
+  /* width: 100%; */
 }
 
 /* .members {
@@ -9696,7 +9707,7 @@ margin-left: 20px;
     grid-column-gap: 30px;
     grid-row-gap: 30px;
     grid-template-rows: auto;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-auto-columns: 1fr;
     display: grid;
     width: 100%;
@@ -9933,7 +9944,7 @@ margin-left: 20px;
     grid-column-gap: 30px;
     grid-row-gap: 30px;
     grid-template-rows: auto;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-auto-columns: 1fr;
     display: grid;
     width: 100%;
@@ -10803,7 +10814,7 @@ margin-left: 20px;
         grid-column-gap: 30px;
         grid-row-gap: 30px;
         grid-template-rows: auto;
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
         grid-auto-columns: 1fr;
         display: grid;
         width: 100%;
@@ -11592,6 +11603,17 @@ margin-left: 20px;
     flex-direction: column;
     width: 50%;
   }
+
+
+  #members-container {
+        grid-column-gap: 30px;
+        grid-row-gap: 30px;
+        grid-template-rows: auto;
+        grid-template-columns: 1fr;
+        grid-auto-columns: 1fr;
+        display: grid;
+        width: 100%;
+     }
 
     .blog-list {
   width: 100%;
