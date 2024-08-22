@@ -398,6 +398,8 @@ body {
   width: 50%;
   padding-left: 50px;
   height: 400px;
+  margin-bottom: -4px;
+  /* padding-top: 20px; */
 }
 
 .img-div {
@@ -5596,6 +5598,12 @@ blockquote {
 .arrow {
   font-size: 13px;
 }
+
+#linkedin::placeholder {
+  color: #333;
+  opacity: 1;
+}
+
 
 .contacts-3-input-main {
 
