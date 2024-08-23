@@ -793,7 +793,7 @@ function sendEmail(data) {
         if (!response.ok) {
             return response.json().then(err => {
                 console.error('Server error details:', err);
-                throw new Error(`Failed to send email: ${JSON.stringify(err)}`);
+                throw new Error(`${JSON.stringify(err.detail)}`);
             });
         }
         return response.json(); // Handle successful response
@@ -804,7 +804,7 @@ function sendEmail(data) {
     })
     .catch(error => {
         console.error('Error adding Company:', error);
-        alert(`Failed to add Company: ${error.message}`);
+        alert(error.message);
     });
 }
 </script>

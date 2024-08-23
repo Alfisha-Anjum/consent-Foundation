@@ -858,7 +858,7 @@
 
         let countValue = data.dp_consents;
         if (countValue >= 1000) {
-            countValue = (countValue / 1000).toFixed(1) + 'K';
+            countValue = (countValue / 1000).toFixed(0) + 'K';
         }
 
         document.getElementById('count').textContent = countValue;
