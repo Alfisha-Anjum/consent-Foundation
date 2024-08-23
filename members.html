@@ -1137,7 +1137,7 @@ function sendEmail(data) {
             } else {
                 return response.json().then(err => {
                     console.error('Server error details:', err);
-                    throw new Error(`Failed to send email: ${JSON.stringify(err)}`);
+                    throw new Error(`${JSON.stringify(err.detail)}`);
                 });
             }
         })
@@ -1147,7 +1147,7 @@ function sendEmail(data) {
         })
         .catch(error => {
             console.error('Error adding member:', error);
-            alert(`Failed to add member: ${error.message}`);
+            alert(`${error.message}`);
         });
 }
 </script>

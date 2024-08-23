@@ -681,7 +681,7 @@
     </div>
    <div class="base-container w-container">
   <div class="title-wrap">
-    <h2>Become A Company</h2>
+    <h2>Become A Member</h2>
     <p class="maxw-830px">Join Our Community for Exclusive Benefits and Opportunities</p>
   <div class="contacts-3-form-wrapper-member w-form">
       <form id="email-form-2" name="email-form-2" class="contacts-3-form" onsubmit="AddMember(event)">
@@ -1043,7 +1043,7 @@ function sendEmail(data) {
             } else {
                 return response.json().then(err => {
                     console.error('Server error details:', err);
-                    throw new Error(`Failed to send email: ${JSON.stringify(err)}`);
+                    throw new Error(`${JSON.stringify(err.detail)}`);
                 });
             }
         })
@@ -1053,7 +1053,7 @@ function sendEmail(data) {
         })
         .catch(error => {
             console.error('Error adding member:', error);
-            alert(`Failed to add member: ${error.message}`);
+            alert(` ${error.message}`);
         });
 }
 </script>
