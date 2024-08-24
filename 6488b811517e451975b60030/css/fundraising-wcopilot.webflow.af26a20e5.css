@@ -3153,19 +3153,14 @@ textarea.w-select {
   border-radius: 5px;
   /* position: absolute; */
   margin: auto;
-  background-color: white;
+  /* background-color: white; */
   width: 70%;
   height: 70%;
   top: 17%;
   left:47px;
- 
-
   /* transform: translate(-115%, -115%); */
-
   z-index: 1;
 } 
-
-
 
 .relate {
   position: relative;
@@ -8261,9 +8256,10 @@ margin-left: 20px;
   background-size: auto, cover;
 }
 
+
 .section-with-spacing.banner-mission {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/my-images/consent-foundation-mission-banner (1).png");
+    url("/6488b811517e451975b60030/consent-foundation-mission-banner (1).png");
   background-position: 0 0, 50% 0;
   background-size: auto, cover;
 }
@@ -8291,7 +8287,7 @@ margin-left: 20px;
 
 .image-about {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("../6492ed13c0cafc9b5abe0791_Banner 06.jpg");
+    url("/my-images/privacy priority - about us (1).jpg");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -8893,7 +8889,28 @@ margin-left: 20px;
   font-size: 30px;
 }
 
+.DPI{
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+
+.block-white-1 {
+  
+  box-shadow: 0 0 20px 20px var(--black-2);
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 45%;
+  min-height: 350px;
+  /* padding: 30px 50px; */
+  display: flex;
+}
+
 .block-white {
+  
   border: 1px solid var(--white-smoke);
   background-color: var(--white);
   box-shadow: 0 0 20px 20px var(--black-2);
@@ -9434,6 +9451,11 @@ margin-left: 20px;
     margin-right: 54px;
   }
 
+  .block-white-1 {
+    width: 456px;
+    margin-right: 54px;
+  }
+
   .image {
     height: 230px;
   }
@@ -9682,6 +9704,11 @@ margin-left: 20px;
     position: relative;
     right: 152px;
   }
+  .block-white-1 {
+    margin-right: 0;
+    position: relative;
+    right: 152px;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -9769,6 +9796,20 @@ margin-left: 20px;
   width: 45%;
   min-height: 350px;
   padding: 30px 50px;
+  display: flex;
+}
+
+.block-white-1 {
+  /* border: 1px solid var(--white-smoke); */
+  /* background-color: var(--white); */
+  box-shadow: 0 0 20px 20px var(--black-2);
+  border-radius: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  min-height: 350px;
+  /* padding: 30px 50px; */
   display: flex;
 }
 
@@ -10737,6 +10778,13 @@ margin-left: 20px;
     min-height: 300px;
     padding-left: 30px;
     padding-right: 30px;
+  }
+
+   .block-white-1 {
+    width: 75%;
+    min-height: 300px;
+    /* padding-left: 30px;
+    padding-right: 30px; */
   }
 
   .image {
@@ -12037,6 +12085,10 @@ margin-left: 20px;
   }
 
   .block-white {
+    width: 100%;
+  }
+
+  .block-white-1 {
     width: 100%;
   }
 
