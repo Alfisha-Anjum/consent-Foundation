@@ -640,6 +640,9 @@ th {
   content: "";
 }
 
+
+
+
 .w-icon-arrow-down:before,
 .w-icon-dropdown-toggle:before {
   content: "";
@@ -1584,7 +1587,10 @@ textarea.w-select {
 .w-widget-twitter {
   overflow: hidden;
 }
+.my-element{
+  height: 300px;
 
+}
 .w-widget-twitter-count-shim {
   vertical-align: top;
   text-align: center;
@@ -2482,6 +2488,7 @@ textarea.w-select {
 
 .w-nav-menu {
   float: right;
+  /* min-height: 400px; */
   position: relative;
 }
 
@@ -2513,6 +2520,7 @@ textarea.w-select {
 }
 
 .w-nav-overlay [data-nav-menu-open] {
+  /* min-height: 300px; */
   top: 0;
 }
 
@@ -2523,12 +2531,15 @@ textarea.w-select {
 .w-nav[data-animation="over-left"] .w-nav-overlay,
 .w-nav[data-animation="over-left"] [data-nav-menu-open] {
   z-index: 1;
-  top: 0;
+  top: 14px;
   right: auto;
+  /* min-height: 300px; */
+
 }
 
 .w-nav[data-animation="over-right"] .w-nav-overlay {
   width: auto;
+  /* min-height: 300px; */
 }
 
 .w-nav[data-animation="over-right"] .w-nav-overlay,
@@ -3909,7 +3920,7 @@ textarea.w-select {
 
 @media screen and (max-width: 600px) {
   .join {
-    width: 70%;
+    width: 90%;
   }
 }
 
@@ -4587,11 +4598,13 @@ blockquote {
 }
 
 .nav-menu {
+  /* height: 300px; */
   text-align: right;
   flex: 1;
   justify-content: center;
   align-items: center;
   display: flex;
+  
 }
 
 .nav-dropdown-toggle {
@@ -5006,6 +5019,7 @@ blockquote {
 }
 
 .nav-menu-wrapper {
+  /* height: 300px; */
   flex: 1;
   justify-content: space-between;
   align-items: center;
@@ -6761,6 +6775,7 @@ margin-left: 20px;
 .menu-wrap {
   align-items: center;
   display: flex;
+  
 }
 
 .rich-text-style h2 {
@@ -9722,10 +9737,26 @@ margin-left: 20px;
     margin-right: 20px;
   }
 
+  .large-text {
+  color: var(--sandy-brown);
+  margin-bottom: 10px;
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 1em;
+}
   
-  
+.blog-post-title {
+  /* margin-top: 20px; */
+  margin-bottom: 10px;
+  font-weight: 500;
+  transition: color 0.3s;
+}
 
   
+.blog-content-wrapper{
+  margin-bottom: 50px;
+}
+
   
   .blog-list {
   width: 100%;
@@ -10082,8 +10113,9 @@ margin-left: 20px;
     background-color: var(--white);
     flex-direction: column;
     width: 320px;
+    min-height: 500px;
     margin-top: 43px;
-    top: 0%;
+    top: 14%;
     bottom: 0%;
     left: 0%;
     right: auto;
@@ -11651,6 +11683,18 @@ margin-left: 20px;
    
  }
 
+.contacts-3-form-wrapper-member {
+  background-color: var(--white-smoke);
+  border-radius: 10px;
+  width: 95%;
+  margin-top: 40px;
+  margin-bottom: 0;
+  padding: 20px;
+}
+     
+     .contacts-3-form-wrapper{
+      width: 100%;
+     }
      .bold-paragraph {
         font-size: 23px;
     }
