@@ -61111,13 +61111,13 @@ spurious results.`);
   bottom: 0;
   right: 0;
   width: 100%;
-  height: 100%;
+  
   width: 100vw;
-  height: 100vh;
+  
   min-width: 100%;
-  min-height: 100%;
+ 
   max-width: 100%;
-  max-height: 100%;
+  
   z-index: 2147483647;
   border: 0;
   background-color: #ffffff;

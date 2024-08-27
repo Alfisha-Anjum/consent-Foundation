@@ -2488,7 +2488,7 @@ textarea.w-select {
 
 .w-nav-menu {
   float: right;
-  
+  /* min-height: 400px; */
   position: relative;
 }
 
@@ -2520,6 +2520,7 @@ textarea.w-select {
 }
 
 .w-nav-overlay [data-nav-menu-open] {
+  /* min-height: 300px; */
   top: 0;
 }
 
@@ -2532,11 +2533,13 @@ textarea.w-select {
   z-index: 1;
   top: 14px;
   right: auto;
+  /* min-height: 300px; */
 
 }
 
 .w-nav[data-animation="over-right"] .w-nav-overlay {
   width: auto;
+  /* min-height: 300px; */
 }
 
 .w-nav[data-animation="over-right"] .w-nav-overlay,
