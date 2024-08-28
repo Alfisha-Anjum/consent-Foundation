@@ -5228,7 +5228,7 @@ blockquote {
 .process-image-wrapper-main {
   border-radius: 20px;
   width: 45%;
-  height: 400px;
+  height: 317px;
   overflow: hidden;
   float: right;
   margin-left: 20px;
@@ -5406,6 +5406,7 @@ blockquote {
   grid-column-gap: 30px;
   width: 100%;
   display: flex;
+  margin-bottom: 80px;
 }
 
 .accordion-wrapper.service-details {
@@ -8274,7 +8275,7 @@ margin-left: 20px;
 
 .section-with-spacing.banner-mission {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/6488b811517e451975b60030/consent-foundation-mission-banner (1).png");
+    url("/my-images/consent-foundation-mission-banner (1) (1).png");
   background-position: 0 0, 50% 0;
   background-size: auto, cover;
 }
@@ -8302,7 +8303,7 @@ margin-left: 20px;
 
 .image-about {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/my-images/privacy priority - about us (1).jpg");
+    url("/my-images/privacy priority - about us (1) (1).jpg");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
