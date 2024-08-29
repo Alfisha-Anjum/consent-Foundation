@@ -7319,6 +7319,7 @@ margin-left: 20px;
   object-fit: cover;
   width: 100%;
   height: 100%;
+  cursor: pointer;
 }
 
 .image-cover-color {
@@ -8601,6 +8602,7 @@ margin-left: 20px;
   color: var(--primary);
   margin-top: 20px;
   transition: color 0.3s;
+  cursor: pointer;
 }
 
 .hover-heading:hover {
