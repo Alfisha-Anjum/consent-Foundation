@@ -4022,6 +4022,7 @@ h1 {
   line-height: 1.1em;
   /* text-align: center; */
 }
+
 .h1-1-main-1 {
   color: white;
 }
@@ -8916,7 +8917,7 @@ margin-left: 20px;
 
 .block-white-1 {
   
-  box-shadow: 0 0 20px 20px var(--black-2);
+  /* box-shadow: 0 0 20px 20px var(--black-2); */
   border-radius: 10px;
   flex-direction: column;
   justify-content: center;
@@ -9755,6 +9756,15 @@ margin-left: 20px;
   transition: color 0.3s;
 }
 
+.h1-main {
+  /* color: var(--text-dark); */
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 1.1em;
+  /* text-align: center; */
+}
   
 .blog-content-wrapper{
   margin-bottom: 50px;
