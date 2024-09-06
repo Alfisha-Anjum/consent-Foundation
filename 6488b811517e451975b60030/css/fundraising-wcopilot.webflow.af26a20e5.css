@@ -25,12 +25,37 @@ summary {
   display: block;
 }
 
+.author-section {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+.author-image {
+  width: 100%;
+  height: 100%;
+  margin-right: 10px;
+  border-radius: 100%;
+}
+
+.author-name {
+  font-size: 14px;
+  color: #333;
+}
+
 .container {
   position: relative;
   width: 100%;
   max-width: 600px;
   margin: 0 auto;
   overflow: hidden;
+}
+
+#content{
+  display: flex;
+  gap: 50px;
 }
 
 /* For the entire page body::-webkit-scrollbar {
@@ -4977,7 +5002,7 @@ blockquote {
 
 .blog-post-title {
   /* margin-top: 20px; */
-  margin-bottom: 40px;
+  /* margin-bottom: 40px; */
   font-weight: 500;
   transition: color 0.3s;
 }
