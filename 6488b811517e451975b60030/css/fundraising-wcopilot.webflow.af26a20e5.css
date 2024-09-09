@@ -24,7 +24,9 @@ section,
 summary {
   display: block;
 }
-
+/* .blog-details-1{
+  padding: 50px;
+} */
 .author-section {
   display: flex;
   align-items: center;
@@ -34,10 +36,12 @@ summary {
 }
 
 .author-image {
-  width: 100%;
-  height: 100%;
-  margin-right: 10px;
   border-radius: 100%;
+  margin-right: 10px;
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+
 }
 
 .author-name {
@@ -54,7 +58,8 @@ summary {
 }
 
 #content{
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 50px;
 }
 
@@ -1354,7 +1359,11 @@ textarea.w-select {
   }
 
 
- 
+ #content{
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  gap: 50px;
+}
 
   .join {
     width: 60%;
@@ -1425,15 +1434,16 @@ textarea.w-select {
  
 }
 
-
+#content{
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 50px;
+}
 
  
 .empower-img-main {
   display: none;
 }
-
-
-
 
   .w-row,
   .w-container .w-row {
@@ -4270,7 +4280,7 @@ blockquote {
   flex-direction: column;
   text-align: left;
   /* align-items: center; */
-  max-width: 85%;
+  max-width: 80%;
   margin-left: auto;
   margin-right: auto;
   padding-left: 15px;
@@ -5671,6 +5681,7 @@ blockquote {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 10px;
+  gap: 10px;
 }
 .tag {
   background-color: #f1f1f1;
@@ -6372,10 +6383,18 @@ blockquote {
 
 .blog-item-2 {
   background-color: var(--white);
-  /* width: 33.33%; */
+  /* width: 100%; */
 }
 
-
+.tag{
+  padding: 5px;
+  border-radius: 10px;
+  text-align: center;
+}
+.tag-body{
+  display: flex;
+  gap: 10px;
+}
 .blog-it {
 margin-left: 20px;
   width: 50%;
@@ -7916,7 +7935,9 @@ margin-left: 20px;
 .data-categories-block {
   grid-column-gap: 25px;
   align-items: center;
+  flex-direction: row;
   display: flex;
+  width: 60px;
 }
 
 .data-categories-block.display {
