@@ -7937,7 +7937,7 @@ margin-left: 20px;
   align-items: center;
   flex-direction: row;
   display: flex;
-  width: 60px;
+  /* width: 60px; */
 }
 
 .data-categories-block.display {
@@ -9801,6 +9801,14 @@ margin-left: 20px;
   font-weight: 500;
   transition: color 0.3s;
 }
+.description-button {
+  grid-column-gap: 25px;
+  display: flex;
+}
+.description-button {
+  grid-column-gap: 25px;
+  display: flex;
+}
 
 .h1-main {
   /* color: var(--text-dark); */
@@ -10878,9 +10886,9 @@ margin-left: 20px;
     padding-right: 30px; */
   }
 
-  .image {
+  /* .image {
     height: 150px;
-  }
+  } */
 
   .hire-popup-wrap {
     display: none;

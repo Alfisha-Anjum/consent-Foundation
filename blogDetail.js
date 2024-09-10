@@ -50,11 +50,9 @@ const fetchContent = async () => {
         };
       });
 
-      // Clear any previous content
       const blogGrid = document.querySelector("#blog-details");
       blogGrid.innerHTML = "";
 
-      // Insert the mapped data into the HTML
       mappedData.forEach((item) => {
         const blogItem = document.createElement("div");
         blogItem.classList.add("w-dyn-item");
@@ -63,10 +61,6 @@ const fetchContent = async () => {
         item.blog_tags.forEach((tag) => {
           tagsHTML += `<p class="data-categories-block label hover ">${tag}</p>`;
         });
-
-        // document.querySelector("#tags-container").innerHTML = tagsHTML;
-
-        // Add onclick to store the blog ID in local storage
 
         blogItem.innerHTML = `
   <div role="listitem" class="">
@@ -94,9 +88,9 @@ const fetchContent = async () => {
       </div>
       
       <!-- Blog Short Description -->
-      <p class="rich-text-style w-richtext">${
+      <h5 class="rich-text-style w-richtext">${
         item.blog_short_description
-      }</p> <!-- Short description -->
+      }</h5> <!-- Short description -->
   
       <!-- Blog Content -->
       <div class="rich-text-style w-richtext" id="blog-content">
