@@ -111,6 +111,9 @@ body::-webkit-scrollbar-thumb:hover {
   height: 100%;
 }
 
+.main-div-main{
+  width: 100%;
+}
 .right-content-1{
   display: flex;
   flex-direction: column;
@@ -1439,6 +1442,7 @@ textarea.w-select {
   grid-template-columns: 1fr;
   gap: 50px;
 }
+
 
  
 .empower-img-main {
@@ -4276,6 +4280,20 @@ blockquote {
 }
 
 .base-container-stream {
+  z-index: 1;
+  flex-direction: column;
+  text-align: left;
+  /* align-items: center; */
+  /* max-width: 80%; */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex;
+  position: relative;
+}
+
+.base-container-stream-1 {
   z-index: 1;
   flex-direction: column;
   text-align: left;
@@ -9794,7 +9812,11 @@ margin-left: 20px;
   font-weight: 600;
   line-height: 1em;
 }
+
+
   
+
+
 .blog-post-title {
   /* margin-top: 20px; */
   margin-bottom: 10px;

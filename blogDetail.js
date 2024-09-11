@@ -55,7 +55,7 @@ const fetchContent = async () => {
 
       mappedData.forEach((item) => {
         const blogItem = document.createElement("div");
-        blogItem.classList.add("w-dyn-item");
+        blogItem.classList.add("main-div-main");
 
         let tagsHTML = "";
         item.blog_tags.forEach((tag) => {
