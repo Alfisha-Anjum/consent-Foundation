@@ -89,12 +89,7 @@ const fetchContent = async () => {
               <div class="tagss">
                 ${tagsHTML}
               </div>
-              <h5 class="title-main ">${item.blog_title}</h5>
-              <!-- Blog Short Description -->
-              <h5 class="rich-text-style w-richtext">${
-                item.blog_short_description
-              }</h5>
-  
+
               <!-- Blog Content -->
               <div class="rich-text-style w-richtext" id="blog-content">
                 ${item.blog_content
@@ -103,14 +98,17 @@ const fetchContent = async () => {
               </div>
 
               <!-- Author Section -->
-              <div class="author-section">
-                <img
-                  src="${item.author_image}"
-                  alt="Author Image"
-                  class="author-image"
-                  style="width: 50px; border-radius: 50%;" />
-                <span class="author-name">${item.author_name}</span>
-              </div>
+             <a href="https://www.linkedin.com/" target="_blank">
+                <div class="author-section">
+                  <img
+                    src="${item.author_image}"
+                    alt="Author Image"
+                    class="author-image"
+                    style="width: 50px; border-radius: 50%;" />
+                  <span class="author-name">${item.author_name}</span>
+                </div>
+              </a>
+              
             </div>
           </div>
         `;

@@ -45,7 +45,12 @@ summary {
 }
 
 .author-name {
-  font-size: 14px;
+  font-size: 20px;
+  color: #333;
+}
+
+.author-name-1 {
+  font-size: 16px;
   color: #333;
 }
 
@@ -60,7 +65,7 @@ summary {
 #content{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 50px;
+  gap: 40px;
 }
 
 /* For the entire page body::-webkit-scrollbar {
@@ -413,6 +418,13 @@ body {
   /* gap: 10px; */
 }
 
+.author{
+  width: full;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .healthcare {
   /* width: 100%; */
   background-size: cover;
@@ -577,7 +589,9 @@ button {
   overflow: visible;
 }
 
-
+.butt{
+ padding: 10px 
+}
 
 button,
 select {
