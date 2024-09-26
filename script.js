@@ -120,15 +120,17 @@ const fetchContent = async () => {
                 <h5 class="blog-post-title">${item.blog_title}</h5>
               </a>
               <p class="mb-30">${item.blog_short_description}</p>
-              <div class="author-section">
+              <div class="author">
+             <div class="author-section">
                 <img
                   src="${item.author_image}"
                   alt="Author Image"
                   class="author-image"
                   style="width: 50px; border-radius: 50%;" />
-                <span class="author-name">${item.author_name}</span>
+                <span class="author-name-1">${item.author_name}</span>
               </div>
-              <a href="#" class="button-small green w-button" onclick="setBlogId('${item.blog_id}')">Read More</a>
+              <a href="#" class="button-small green butt" onclick="setBlogId('${item.blog_id}')">Read More</a>
+              </div> 
             </div>
           </div>
         `;
