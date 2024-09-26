@@ -113,7 +113,7 @@ const fetchContent = async () => {
               </a>
             </div>
            <div class="blog-content-wrapper">
-              <div class="data-categories-block">
+              <div class="tagss">
                 <!-- Blog Tags --> 
                 ${tagsHTML}</div>
               <a href="#" class="w-inline-block" onclick="setBlogId('${item.blog_id}')">
