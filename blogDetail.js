@@ -1,29 +1,29 @@
 const client = contentful.createClient({
-  space: "7rufusqf1lif",
-  accessToken: "jSOOrRU7tKzvGkxKx2AHup0w9bnEuHsGEBqfJQ594bs",
+  space: "70oa5nna50l4",
+  accessToken: "ywUTrK54VVR6-N1L541z477fQsMIKbcbunz4bzY2lOo",
 });
 
 const fetchContent = async () => {
-  const blog = localStorage.getItem("blogID");
-  console.log("Fetching blog", blog);
+  const blogId = localStorage.getItem("blogID");
+  console.log("Fetching blog with ID:", blogId);
 
   try {
     // Fetch entries from Contentful using the client
     const response = await client.getEntries();
 
     // Log the entire response object to verify data
-    console.log("API Response: ", response.items);
+    console.log("API Response:", response.items);
 
     // Check if any items were fetched
     if (response.items.length > 0) {
       // Filter entries to include only the selected blog entry by ID
       const blogEntries = response.items.filter(
-        (item) => item.fields.blogId == blog
+        (item) => item.fields.BlogId === blogId
       );
 
       // Log each blog entry's fields
       blogEntries.forEach((entry) => {
-        console.log("Entry Fields: ", entry.fields);
+        console.log("Entry Fields:", entry.fields);
       });
 
       // Map over the entries and extract the desired data
@@ -31,21 +31,21 @@ const fetchContent = async () => {
         const fields = entry.fields;
 
         return {
-          blog_id: fields.blogId || "No ID available",
+          blog_id: fields.BlogId || "No ID available",
           blog_thumbnail: fields.blogThumbnail?.fields?.file?.url
             ? `https:${fields.blogThumbnail.fields.file.url}`
             : "No thumbnail available",
           blog_title: fields.blogTitle || "No title available",
-          blog_tags: fields.blogTag || ["No tags available"],
+          blog_tags: fields.blogTags || ["No tags available"],
           blog_short_description:
-            fields.blogThumbnail?.fields?.description ||
-            "No short description available", // Correct access to the description
+            fields.blogShortDescription || "No short description available",
           blog_content: fields.blogContent?.content || "No content available",
           author_name:
-            fields.authorName?.fields?.authorName || "No author name available",
-          author_image: fields.authorName?.fields?.authorImage1?.fields?.file
+            fields.authorDetails?.fields?.authorName ||
+            "No author name available",
+          author_image: fields.authorDetails?.fields?.authorImage?.fields?.file
             ?.url
-            ? `https:${fields.authorName.fields.authorImage1.fields.file.url}`
+            ? `https:${fields.authorDetails.fields.authorImage.fields.file.url}`
             : "No author image available",
         };
       });
@@ -63,56 +63,57 @@ const fetchContent = async () => {
         });
 
         blogItem.innerHTML = `
-  <div role="listitem" class="">
-    <div class="">
-      <a href="#" class="" onclick="setBlogId('${item.blog_id}')"></a>
-    </div>
+          <div role="listitem" class="">
+            <div class="">
+              <a href="#" class="" onclick="setBlogId('${item.blog_id}')"></a>
+            </div>
 
-    <div class="base-container-stream w-container">
-      <a href="#" class="w-inline-block" onclick="setBlogId('${item.blog_id}')">
-        <h5 class="details-page-title spacing">${item.blog_title}</h5>
-      </a>
+            <div class="base-container-stream w-container">
+              <a href="#" class="w-inline-block" onclick="setBlogId('${
+                item.blog_id
+              }')">
+                <h5 class="details-page-title spacing">${item.blog_title}</h5>
+              </a>
 
-      <!-- Blog Thumbnail -->
-      <img
-        src="${item.blog_thumbnail}"
-        loading="lazy"
-        alt="Blog Thumbnail"
-        sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 46vw, (max-width: 1279px) 30vw, (max-width: 1919px) 370px, 470px"
-        class="blog-template-image"
-      />
-       <h5 class="title">${item.blog_title}</h5>
-      <!-- Blog Tags -->
-      <div class="">
-        <a href="#" class="tags">${tagsHTML}</a>
-      </div>
-      
-      <!-- Blog Short Description -->
-      <h5 class="rich-text-style w-richtext">${
-        item.blog_short_description
-      }</h5> <!-- Short description -->
+              <!-- Blog Thumbnail -->
+              <img
+                src="${item.blog_thumbnail}"
+                loading="lazy"
+                alt="Blog Thumbnail"
+                sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 46vw, (max-width: 1279px) 30vw, (max-width: 1919px) 370px, 470px"
+                class="blog-template-image"
+              />
+              
+               
+              <!-- Blog Tags -->
+              <div class="tagss">
+                ${tagsHTML}
+              </div>
+              <h5 class="title-main ">${item.blog_title}</h5>
+              <!-- Blog Short Description -->
+              <h5 class="rich-text-style w-richtext">${
+                item.blog_short_description
+              }</h5>
   
-      <!-- Blog Content -->
-      <div class="rich-text-style w-richtext" id="blog-content">
-        ${item.blog_content
-          .map((contentItem) => renderBlogContent(contentItem))
-          .join("")}
-      </div>
+              <!-- Blog Content -->
+              <div class="rich-text-style w-richtext" id="blog-content">
+                ${item.blog_content
+                  .map((contentItem) => renderBlogContent(contentItem))
+                  .join("")}
+              </div>
 
-      <!-- Author Section -->
-      <div class="author-section">
-        <img
-          src="${item.author_image}"
-          alt="Author Image"
-          class="author-image"
-          style="width: 50px; border-radius: 50%;" />
-        <span class="author-name">${item.author_name}</span>
-      </div>
-    </div>
-  </div>
-`;
-
-        // console.log("Short Description: ", item.blog_short_description);
+              <!-- Author Section -->
+              <div class="author-section">
+                <img
+                  src="${item.author_image}"
+                  alt="Author Image"
+                  class="author-image"
+                  style="width: 50px; border-radius: 50%;" />
+                <span class="author-name">${item.author_name}</span>
+              </div>
+            </div>
+          </div>
+        `;
 
         blogGrid.appendChild(blogItem);
       });
