@@ -31,8 +31,8 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 const client = contentful.createClient({
-  space: "7rufusqf1lif",
-  accessToken: "jSOOrRU7tKzvGkxKx2AHup0w9bnEuHsGEBqfJQ594bs",
+  space: "70oa5nna50l4",
+  accessToken: "ywUTrK54VVR6-N1L541z477fQsMIKbcbunz4bzY2lOo",
 });
 
 //
@@ -54,31 +54,31 @@ const fetchContent = async () => {
     if (response.items.length > 0) {
       // Filter entries to include only 'Custody blog' content types
       const blogEntries = response.items.filter(
-        (item) => item.sys.contentType.sys.id === "custodyBlog"
+        (item) => item.sys.contentType.sys.id === "consentBlogs"
       );
 
       // Log filtered blog entries
-      console.log("blogEntries", blogEntries);
+      // console.log("blogEntries", blogEntries);
 
       // Map over the entries and extract the desired data
       const mappedData = blogEntries.map((entry) => {
         const fields = entry.fields;
 
         return {
-          blog_id: fields.blogId || "No ID available",
+          blog_id: fields.BlogId || "No ID available",
           blog_thumbnail: fields.blogThumbnail?.fields?.file?.url
             ? `https:${fields.blogThumbnail.fields.file.url}`
             : "No thumbnail available",
           blog_title: fields.blogTitle || "No title available",
-          blog_tags: fields.blogTag || ["No tags available"],
+          blog_tags: fields.blogTags || ["No tags available"],
           blog_short_description:
-            fields.blogThumbnail?.fields?.description ||
-            "No short description available", // Access the correct path
+            fields.blogShortDescription || "No short description available",
           author_name:
-            fields.authorName?.fields?.authorName || "No author name available",
-          author_image: fields.authorName?.fields?.authorImage1?.fields?.file
+            fields.authorDetails?.fields?.authorName ||
+            "No author name available",
+          author_image: fields.authorDetails?.fields?.authorImage?.fields?.file
             ?.url
-            ? `https:${fields.authorName.fields.authorImage1.fields.file.url}`
+            ? `https:${fields.authorDetails.fields.authorImage.fields.file.url}`
             : "No author image available",
         };
       });

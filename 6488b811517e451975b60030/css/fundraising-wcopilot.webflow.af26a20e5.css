@@ -112,6 +112,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 .main-div-main{
+  
   width: 100%;
 }
 .right-content-1{
@@ -123,7 +124,10 @@ body::-webkit-scrollbar-thumb:hover {
   width: 100%;
   height: 100%;
 }
-
+.tagss{
+  display: flex;
+  gap: 20px;
+}
 
 .memberDiv{
   /* margin: auto; */
@@ -415,7 +419,12 @@ body {
   background-position: center;
   /* padding: 50px 0; */
 }
-
+.title-main{
+  font-size: 30px;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 .empower {
   /* height: 600px; */
   display: flex;
@@ -7955,7 +7964,8 @@ margin-left: 20px;
   align-items: center;
   flex-direction: row;
   display: flex;
-  /* width: 60px; */
+  
+  width: auto
 }
 
 .data-categories-block.display {
