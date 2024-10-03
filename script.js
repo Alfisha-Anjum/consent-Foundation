@@ -37,9 +37,14 @@ const client = contentful.createClient({
 
 //
 // Function to store the blog_id in local storage and navigate to the blog details page
+// function setBlogId(blogId) {
+//   localStorage.setItem("blogID", blogId);
+//   window.location.href = "/blog-details.html"; // Redirect to blog details page
+// }
+
 function setBlogId(blogId) {
-  localStorage.setItem("blogID", blogId);
-  window.location.href = "/blog-details.html"; // Redirect to blog details page
+  // Redirect to blog details page with blog_id as a query parameter
+  window.location.href = `/blog-details.html?blogId=${blogId}`;
 }
 
 const fetchContent = async () => {
@@ -113,7 +118,7 @@ const fetchContent = async () => {
               </a>
             </div>
            <div class="blog-content-wrapper">
-              <div class="data-categories-block">
+              <div class="tagss">
                 <!-- Blog Tags --> 
                 ${tagsHTML}</div>
               <a href="#" class="w-inline-block" onclick="setBlogId('${item.blog_id}')">
