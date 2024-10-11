@@ -45,6 +45,7 @@ summary {
 }
 
 
+
 .author-name {
   font-size: 20px;
   color: #333;
@@ -68,6 +69,13 @@ summary {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 40px;
 }
+
+#blog-page-content{
+   display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 40px;
+}
+
 
 /* For the entire page body::-webkit-scrollbar {
   width: 8px; /* Width of the vertical scrollbar */
@@ -416,13 +424,14 @@ body {
  
   font-size: 18px;
  
-  margin: 10px 0;
+  /* margin: 10px 0; */
   /* gap: 10px; */
 }
 
 .author{
   width: full;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
 }
@@ -1400,6 +1409,12 @@ textarea.w-select {
   gap: 50px;
 }
 
+#blog-page-content{
+ display: grid;
+  grid-template-columns: 1fr 1fr ;
+  gap: 50px;
+}
+
   .join {
     width: 60%;
     gap: 20px;
@@ -1475,6 +1490,11 @@ textarea.w-select {
   gap: 50px;
 }
 
+#blog-page-content{
+ display: grid;
+  grid-template-columns: 1fr ;
+  gap: 50px;
+}
 
  
 .empower-img-main {
@@ -2409,7 +2429,7 @@ textarea.w-select {
   display: flex;
 }
 .w-dyn-item{
-  display: grid;
+  /* display: grid; */
   grid-template-columns: 1fr;
 }
 
@@ -4553,6 +4573,12 @@ blockquote {
   width: 300px;
 }
 
+.back {
+ margin-left: 6px;
+
+}
+
+
 .primary-button {
   border: 1px solid var(--primary);
   background-color: var(--primary);
@@ -4565,6 +4591,7 @@ blockquote {
   font-size: 16px;
   transition: all 0.3s;
   display: inline-block;
+  
 }
 
 .primary-button-4 {
@@ -4878,6 +4905,12 @@ blockquote {
 .para {
   font-size: 18px;
 }
+
+.paras{
+  font-size: 13px;
+  margin: 0;
+}
+
 .licensing-font-title {
   color: var(--primary);
   text-transform: capitalize;
@@ -5534,7 +5567,9 @@ blockquote {
 }
 
 .mb-30 {
-  margin-bottom: 30px;
+  /* margin-bottom: 20px; */
+  font-size: 13px;
+  line-height: 20px;
 }
 
 .light-background {
@@ -9852,7 +9887,7 @@ margin-left: 20px;
 
 .blog-post-title {
   /* margin-top: 20px; */
-  margin-bottom: 10px;
+  /* margin-bottom: 10px; */
   font-weight: 500;
   transition: color 0.3s;
 }
@@ -12402,6 +12437,8 @@ margin-left: 20px;
   #w-node-a493b918-2873-8501-7426-d5d63bbe2380-75b600ac {
     grid-column: span 1 / span 1;
   }
+
+
 
   #w-node-_0067cb99-1399-52ff-9b9f-fa5286a9401e-75b600b7 {
     grid-column: span 2 / span 2;
