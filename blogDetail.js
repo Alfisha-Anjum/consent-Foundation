@@ -46,11 +46,22 @@ const fetchBlogDetails = async () => {
             <a href="#" class="w-inline-block" onclick="setBlogId('${
               blog.blogId
             }')">
+<a href="home.html">
+<button class="primary-button">
+            <i class="fa-solid fa-chevron-left"></i> <span class="back">Back</span></button></a>
+            
               <h5 class="details-page-title spacing">${
                 blog.blogTitle || "No title available"
               }</h5>
+
             </a>
 
+
+             <!-- Blog Tags -->
+            <div class="tagss">
+              ${tagsHTML}
+            </div>
+            
             <!-- Blog Thumbnail -->
             <img
               src="${
@@ -64,10 +75,7 @@ const fetchBlogDetails = async () => {
               class="blog-template-image"
             />
 
-            <!-- Blog Tags -->
-            <div class="tagss">
-              ${tagsHTML}
-            </div>
+           
 
             <!-- Blog Content -->
             <div class="rich-text-style w-richtext" id="blog-content">
@@ -77,24 +85,26 @@ const fetchBlogDetails = async () => {
             </div>
 
             <!-- Author Section -->
-            <a href="https://www.linkedin.com/" target="_blank">
-              <div class="author-section">
-                <img
-                  src="${
-                    blog.authorDetails?.fields?.authorImage?.fields?.file?.url
-                      ? `https:${blog.authorDetails.fields.authorImage.fields.file.url}`
-                      : "No author image available"
-                  }"
-                  alt="Author Image"
-                  class="author-image"
-                  style="width: 50px; border-radius: 50%;" />
-                <span class="author-name">${
-                  blog.authorDetails?.fields?.authorName ||
-                  "No author name available"
-                }</span>
-              </div>
-            </a>
-          </div>
+           <a href="${
+             blog.authorDetails?.fields?.linked
+               ? blog.authorDetails.fields.linked
+               : "#"
+           }" target="_blank">
+  <div class="author-section">
+    <img
+      src="${
+        blog.authorDetails?.fields?.authorImage?.fields?.file?.url
+          ? `https:${blog.authorDetails.fields.authorImage.fields.file.url}`
+          : "No author image available"
+      }"
+      alt="Author Image"
+      class="author-image"
+      style="width: 50px; border-radius: 50%;" />
+    <span class="author-name">${
+      blog.authorDetails?.fields?.authorName || "No author name available"
+    }</span>
+  </div>
+</a>
         </div>
       `;
 

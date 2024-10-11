@@ -1,55 +1,26 @@
-// script.js
-
-function changeContent(title, imageUrl, content) {
-  console.log("function call");
-  document.getElementById("main-title").innerText = title;
-  document.getElementById("main-content").innerText = content;
-  document.getElementById(
-    "healthcare"
-  ).style.backgroundImage = `url(${imageUrl})`;
-}
-
-document.addEventListener("DOMContentLoaded", () => {
-  const expertiseSelect = document.getElementById("expertise");
-
-  expertiseSelect.addEventListener("change", (event) => {
-    if (event.target.value === "all") {
-      if (event.target.selectedOptions.length === 1) {
-        // Select all options if "Select All" is the only selected option
-        Array.from(event.target.options).forEach(
-          (option) => (option.selected = true)
-        );
-      } else {
-        // Deselect "Select All" if other options are selected
-        event.target.options[0].selected = false;
-      }
-    } else {
-      // Deselect "Select All" if other options are selected
-      event.target.options[0].selected = false;
-    }
-  });
-});
-
 const client = contentful.createClient({
   space: "70oa5nna50l4",
   accessToken: "ywUTrK54VVR6-N1L541z477fQsMIKbcbunz4bzY2lOo",
 });
 
-function setBlogId(blogId) {
+const setBlogId = (blogId) => {
   window.location.href = `/blog-details.html?blogId=${blogId}`;
-}
+};
 
-const fetchContent = async () => {
+const fetchContentForAnotherPage = async () => {
   try {
+    // Fetch entries from Contentful
     const response = await client.getEntries();
-
     console.log("API Response:", response.items);
 
+    // Check if any items were fetched
     if (response.items.length > 0) {
+      // Filter entries for 'consentBlogs' content type
       const blogEntries = response.items.filter(
         (item) => item.sys.contentType.sys.id === "consentBlogs"
       );
 
+      // Map over the entries and extract the desired data
       const mappedData = blogEntries.map((entry) => {
         const fields = entry.fields;
 
@@ -72,8 +43,8 @@ const fetchContent = async () => {
         };
       });
 
-      const blogGrid = document.querySelector("#content");
-
+      // Clear previous content in the new page's blog section
+      const blogGrid = document.querySelector("#blog-page-content");
       blogGrid.innerHTML = "";
 
       // Insert the mapped data into the HTML
@@ -87,13 +58,10 @@ const fetchContent = async () => {
           tagsHTML += `<p class="data-categories-block label hover">${tag}</p>`;
         });
 
-        const truncatedDescription =
-          item.blog_short_description.split(" ").slice(0, 50).join(" ") + "...";
-
+        // Add blog post HTML with onClick to set the blogId and navigate
         blogItem.innerHTML = `
           <div role="listitem" class="blog-item-2 w-dyn-item">
             <div class="image-class">
-
               <a href="#" class="blog-image-link w-inline-block" onclick="setBlogId('${item.blog_id}')">
                 <img
                   src="${item.blog_thumbnail}"
@@ -104,28 +72,26 @@ const fetchContent = async () => {
                 />
               </a>
             </div>
-           <div class="blog-content-wrapper">
-             
+            <div class="blog-content-wrapper">
+              <div class="tagss">
+                <!-- Blog Tags -->
+                ${tagsHTML}
+              </div>
               <a href="#" class="w-inline-block" onclick="setBlogId('${item.blog_id}')">
                 <h5 class="blog-post-title">${item.blog_title}</h5>
               </a>
-              
-              <p class="paras">${truncatedDescription}</p>
-
-               <div class="tagss">
-                <!-- Blog Tags --> 
-                ${tagsHTML}</div>
+              <p class="mb-30">${item.blog_short_description}</p>
               <div class="author">
-             <div class="author-section">
-                <img
-                  src="${item.author_image}"
-                  alt="Author Image"
-                  class="author-image"
-                  style="width: 50px; border-radius: 50%;" />
-                <span class="author-name-1">${item.author_name}</span>
+                <div class="author-section">
+                  <img
+                    src="${item.author_image}"
+                    alt="Author Image"
+                    class="author-image"
+                    style="width: 50px; border-radius: 50%;" />
+                  <span class="author-name-1">${item.author_name}</span>
+                </div>
+                <a href="#" class="button-small green butt" onclick="setBlogId('${item.blog_id}')">Read More</a>
               </div>
-              <a href="#" class="button-small green butt" onclick="setBlogId('${item.blog_id}')">Read More</a>
-              </div> 
             </div>
           </div>
         `;
@@ -140,5 +106,5 @@ const fetchContent = async () => {
   }
 };
 
-// Call the fetchContent function
-window.onload = fetchContent;
+// Call the fetchContent function when the page loads
+window.onload = fetchContentForAnotherPage;
