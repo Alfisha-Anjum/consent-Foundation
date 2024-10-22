@@ -42,12 +42,12 @@ const fetchBlogDetails = async () => {
             <a href="#" class="" onclick="setBlogId('${blog.blogId}')"></a>
           </div>
 
-          <div class="base-container-stream w-container">
+          <div class="base-container-stream-2 w-container">
             <a href="#" class="w-inline-block" onclick="setBlogId('${
               blog.blogId
             }')">
 <a href="home.html">
-<button class="primary-button">
+<button class="primary-button-4">
             <i class="fa-solid fa-chevron-left"></i> <span class="back">Back</span></button></a>
             
               <h5 class="details-page-title spacing">${
