@@ -4345,6 +4345,20 @@ blockquote {
   position: relative;
 }
 
+.base-container-stream-2 {
+  z-index: 1;
+  flex-direction: column;
+  text-align: left;
+  /* align-items: center; */
+  /* max-width: 80%; */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  /* display: flex; */
+  position: relative;
+}
+
 .base-container-stream-1 {
   z-index: 1;
   flex-direction: column;
@@ -4575,11 +4589,13 @@ blockquote {
 
 .back {
  margin-left: 6px;
-
+ /* color:white; */
+/* font-size: 12px; */
 }
 
 
 .primary-button {
+  
   border: 1px solid var(--primary);
   background-color: var(--primary);
   color: var(--white);
