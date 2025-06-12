@@ -15,9 +15,9 @@ const fetchContentForAnotherPage = async () => {
 
     // Check if any items were fetched
     if (response.items.length > 0) {
-      // Filter entries for 'consentBlogs' content type
+      // Filter entries for 'consentBlog' content type
       const blogEntries = response.items.filter(
-        (item) => item.sys.contentType.sys.id === "consentBlogs"
+        (item) => item.sys.contentType.sys.id === "consentBlog"
       );
 
       // Map over the entries and extract the desired data
@@ -32,7 +32,7 @@ const fetchContentForAnotherPage = async () => {
           blog_title: fields.blogTitle || "No title available",
           blog_tags: fields.blogTags || ["No tags available"],
           blog_short_description:
-            fields.blogShortDescription || "No short description available",
+            fields.BloghortDescription || "No short description available",
           author_name:
             fields.authorDetails?.fields?.authorName ||
             "No author name available",
@@ -59,7 +59,10 @@ const fetchContentForAnotherPage = async () => {
         });
 
         const truncatedDescription =
-          item.blog_short_description.split(" ").slice(0, 50).join(" ") + "...";
+          item.blog_short_description.split(" ").length > 50
+            ? item.blog_short_description.split(" ").slice(0, 50).join(" ") +
+              "..."
+            : item.blog_short_description;
 
         // Add blog post HTML with onClick to set the blogId and navigate
         blogItem.innerHTML = `
