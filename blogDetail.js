@@ -15,7 +15,7 @@ const fetchBlogDetails = async () => {
   try {
     // Fetch entries from Contentful using the client
     const response = await client.getEntries({
-      content_type: "consentBlogs", // Ensure you're fetching the right content type
+      content_type: "consentBlog", // Ensure you're fetching the right content type
       "fields.BlogId": blogId, // Use the blogId to filter the specific entry
     });
 
@@ -85,12 +85,10 @@ const fetchBlogDetails = async () => {
             </div>
 
             <!-- Author Section -->
-           <a href="${
-             blog.authorDetails?.fields?.linked
-               ? blog.authorDetails.fields.linked
-               : "#"
-           }" target="_blank">
-  <div class="author-section">
+           <div class="author-section">
+  <a href="${
+    blog.authorDetails?.fields?.linked ? blog.authorDetails.fields.linked : "#"
+  }" target="_blank">
     <img
       src="${
         blog.authorDetails?.fields?.authorImage?.fields?.file?.url
@@ -100,11 +98,16 @@ const fetchBlogDetails = async () => {
       alt="Author Image"
       class="author-image"
       style="width: 50px; border-radius: 50%;" />
+  </a>
+  <a href="${
+    blog.authorDetails?.fields?.linked ? blog.authorDetails.fields.linked : "#"
+  }" target="_blank">
     <span class="author-name">${
       blog.authorDetails?.fields?.authorName || "No author name available"
     }</span>
-  </div>
-</a>
+  </a>
+</div>
+
         </div>
       `;
 

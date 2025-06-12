@@ -47,7 +47,7 @@ const fetchContent = async () => {
 
     if (response.items.length > 0) {
       const blogEntries = response.items.filter(
-        (item) => item.sys.contentType.sys.id === "consentBlogs"
+        (item) => item.sys.contentType.sys.id === "consentBlog"
       );
 
       const mappedData = blogEntries.map((entry) => {
@@ -61,7 +61,7 @@ const fetchContent = async () => {
           blog_title: fields.blogTitle || "No title available",
           blog_tags: fields.blogTags || ["No tags available"],
           blog_short_description:
-            fields.blogShortDescription || "No short description available",
+            fields.BloghortDescription || "No short description available",
           author_name:
             fields.authorDetails?.fields?.authorName ||
             "No author name available",
@@ -88,7 +88,10 @@ const fetchContent = async () => {
         });
 
         const truncatedDescription =
-          item.blog_short_description.split(" ").slice(0, 50).join(" ") + "...";
+          item.blog_short_description.split(" ").length > 50
+            ? item.blog_short_description.split(" ").slice(0, 50).join(" ") +
+              "..."
+            : item.blog_short_description;
 
         blogItem.innerHTML = `
           <div role="listitem" class="blog-item-2 w-dyn-item">
